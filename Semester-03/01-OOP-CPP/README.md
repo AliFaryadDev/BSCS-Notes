@@ -10,141 +10,143 @@ Table of Contents
 
 Introduction to Object-Oriented Design
 
-01 — Introduction to Object-Oriented Design
-02 — History of Object-Oriented Design
-03 — Advantages of Object-Oriented Design
+- 01 — Introduction to Object-Oriented Design
+- 02 — History of Object-Oriented Design
+- 03 — Advantages of Object-Oriented Design
 
 Introduction to OOP and C++
 
-04 — Brief Description of C++ Concepts
-05 — Introduction to OOP
+- 04 — Brief Description of C++ Concepts
+- 05 — Introduction to OOP
 
 Introduction to Classes, Objects and Member Functions
 
-06 — Encapsulation
-07 — Abstraction
-08 — Class and Object
-09 — Getter/Setter Functions
-10 — Access Specifiers
-11 — Constructors
-12 — Overloaded Constructor
-13 — Default Constructor
-14 — Destructor
+- 06 — Encapsulation
+- 07 — Abstraction
+- 08 — Class and Object
+- 09 — Getter/Setter Functions
+- 10 — Access Specifiers
+- 11 — Constructors
+- 12 — Overloaded Constructor
+- 13 — Default Constructor
+- 14 — Destructor
 
 Functions
 
-15 — Inline Functions
-16 — Function Overloading
+- 15 — Inline Functions
+- 16 — Function Overloading
 
 Class Templates and Arrays
 
-17 — Function Templates
-18 — Class Templates
-19 — Vectors
-20 — Multidimensional Array
-21 — Reference to Private Data Members
-22 — Default Member-wise Assignment
-23 — Const Objects
-24 — Const Member Functions
+- 17 — Function Templates
+- 18 — Class Templates
+- 19 — Arrays
+- 20 — Vectors
+- 21 — Multidimensional Array
+- 22 — Reference to Private Data Members
+- 23 — Default Member-wise Assignment
+- 24 — Const Objects
+- 25 — Const Member Functions
 
 Composition and Aggregation
 
-25 — Object Composition and Aggregation
-26 — Class Separation Using Header Files
+- 26 — Object Composition
+- 27 — Object Aggregation
+- 28 — Class Separation Using Header Files
 
 Friend Classes and Functions
 
-27 — Friend Functions
-28 — Friend Classes
+- 29 — Friend Functions
+- 30 — Friend Classes
 
 Static Members
 
-29 — "this" Pointer
-30 — Static Data Members
-31 — Static Member Functions
+- 31 — "this" Pointer
+- 32 — Static Data Members
+- 33 — Static Member Functions
 
 Copy Constructor
 
-32 — Default Copy Constructor
+- 34 — Default Copy Constructor
 
 Operator Overloading
 
-33 — Overloaded Operators of Standard Library
-34 — Operator Overloading
-35 — Overloading Binary Operators
-36 — Overloading Unary Operators
-37 — Overloading ++ Operator
-38 — Overloading -- Operator
-39 — Dynamic Memory Management
-40 — Operators as Members vs Non-Members
-41 — Conversion Between Types
-42 — Explicit Constructor and Conversion Operators
-43 — Overloading the Function Call Operator
+- 35 — Overloaded Operators of Standard Library
+- 36 — Operator Overloading
+- 37 — Overloading Binary Operators
+- 38 — Overloading Unary Operators
+- 39 — Overloading ++ Operator
+- 40 — Overloading -- Operator
+- 41 — Dynamic Memory Management
+- 42 — Operators as Members vs Non-Members
+- 43 — Conversion Between Types
+- 44 — Explicit Constructor and Conversion Operators
+- 45 — Overloading the Function Call Operator
 
 Stream I/O
 
-44 — Introduction to Streams
-45 — Streams Input
-46 — Streams Output
-47 — Object Streams
-48 — Data and Object Serialization Using Object Streams
+- 46 — Introduction to Streams
+- 47 — Streams Input
+- 48 — Streams Output
+- 49 — Object Streams
+- 50 — Data and Object Serialization Using Object Streams
 
 Inheritance
 
-49 — Introduction to Inheritance
-50 — Base and Derived Classes
-51 — Relationships Between Base and Derived Classes
-52 — Constructors in Derived Classes
-53 — Destructor in Derived Classes
-54 — Public Inheritance
-55 — Protected Inheritance
-56 — Private Inheritance
+- 51 — Introduction to Inheritance
+- 52 — Base and Derived Classes
+- 53 — Relationships Between Base and Derived Classes
+- 54 — Constructors in Derived Classes
+- 55 — Destructor in Derived Classes
+- 56 — Public Inheritance
+- 57 — Protected Inheritance
+- 58 — Private Inheritance
 
 Polymorphism
 
-57 — Relationship Among Objects in Inheritance
-58 — Virtual Functions
-59 — Virtual Destructors
-60 — Pure Virtual Functions
-61 — Abstract Classes
-62 — Concrete Classes
+- 59 — Relationship Among Objects in Inheritance
+- 60 — Virtual Functions
+- 61 — Virtual Destructors
+- 62 — Pure Virtual Functions
+- 63 — Abstract Classes
+- 64 — Concrete Classes
 
 File Processing
 
-63 — Files and Streams
-64 — Create a Sequential File
-65 — Read a Sequential File
-66 — Update a Sequential File
-67 — Random Access File
-68 — Create a Random-Access File
-69 — Read a Random-Access File
-70 — Update a Random-Access File
+- 65 — Files and Streams
+- 66 — Create a Sequential File
+- 67 — Read a Sequential File
+- 68 — Update a Sequential File
+- 69 — Random Access File
+- 70 — Create a Random-Access File
+- 71 — Read a Random-Access File
+- 72 — Update a Random-Access File
 
 Exception Handling
 
-71 — Flow of Control
-72 — Rethrowing an Exception
-73 — Constructor, Destructor and Exception Handling
+- 73 — Flow of Control
+- 74 — Rethrowing an Exception
+- 75 — Constructor, Destructor and Exception Handling
 
 Generic Programming Concepts
 
-74 — Custom Templates
-75 — Class Templates
-76 — Function Templates
-77 — Arguments to Templates
-78 — Overloading Function Templates
+- 76 — Custom Templates
+- 77 — Class Templates
+- 78 — Function Templates
+- 79 — Arguments to Templates
+- 80 — Overloading Function Templates
 
 Standard Library
 
-79 — Containers
-80 — Iterators
-81 — Adapters
-82 — Sequence Containers
-83 — Associative Containers
-84 — Container Adapters
-85 — Minimum Iterator Requirements
-86 — Lambda Expressions
-87 — Function Objects
+- 81 — Containers
+- 82 — Iterators
+- 83 — Adapters
+- 84 — Sequence Containers
+- 85 — Associative Containers
+- 86 — Container Adapters
+- 87 — Minimum Iterator Requirements
+- 88 — Lambda Expressions
+- 89 — Function Objects
 
 ---
 
@@ -157,7 +159,7 @@ Textbook
 Reference Books
 
 - Robert Lafore — Object Oriented Programming in C++, 3rd Edition.
-- Tony Gaddis — Starting Out with C++: From Control Structures to Objects, 9th Edition.
+- Tony Gaddis — Starting Out with C++: From Control Structures to Objects, 9th Edition, Pearson, 2018.
 - Jeri R. Hanly and Elliot B. Koffman — Problem Solving and Program Design in C++, 7th Edition.
 
 ---
