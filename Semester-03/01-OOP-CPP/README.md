@@ -18,8 +18,8 @@ Introduction to Object-Oriented Design
 
 Introduction to OOP and C++
 
-4. Brief Description of C++ Concepts
-5. Introduction to OOP
+04. Brief Description of C++ Concepts
+05. Introduction to OOP
 
 Introduction to Classes, Objects and Member Functions
 
