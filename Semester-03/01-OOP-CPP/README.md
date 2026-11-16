@@ -23,10 +23,10 @@ Introduction to OOP and C++
 
 Introduction to Classes, Objects and Member Functions
 
-6. Encapsulation
-7. Abstraction
-8. Class and Object
-9. Getter/Setter Functions
+06. Encapsulation
+07. Abstraction
+08. Class and Object
+09. Getter/Setter Functions
 10. Access Specifiers
 11. Constructors
 12. Overloaded Constructor
