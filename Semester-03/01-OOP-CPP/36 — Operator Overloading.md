@@ -1,4 +1,25 @@
-36 — Operator Overloading
+📘 36 — Operator Overloading
+
+«Subject: Object Oriented Programming (OOP)
+Language: C++
+Semester: 03
+Topic: Operator Overloading»
+
+---
+
+📑 Table of Contents
+
+1. "Introduction" (#1-introduction)
+2. "Definition" (#2-definition)
+3. "Purpose of Operator Overloading" (#3-purpose-of-operator-overloading)
+4. "Syntax" (#4-syntax-of-operator-overloading)
+5. "Working" (#5-working-of-operator-overloading)
+6. "Rules" (#6-rules-of-operator-overloading)
+7. "Operators That Cannot Be Overloaded" (#7-operators-that-cannot-be-overloaded)
+8. "Advantages" (#8-advantages)
+9. "Conclusion" (#9-conclusion)
+
+---
 
 1. Introduction
 
@@ -8,7 +29,7 @@ For example, the "+" operator normally adds two numbers. With operator overloadi
 
 2. Definition
 
-Operator overloading allows programmers to give additional meanings to existing operators so they can perform operations on user-defined data types.
+«Operator overloading allows programmers to give additional meanings to existing operators so they can perform operations on user-defined data types.»
 
 3. Purpose of Operator Overloading
 
@@ -23,15 +44,17 @@ Main purposes:
 
 Example:
 
-Without operator overloading:
+Without Operator Overloading
 
 result = obj1.add(obj2);
 
-With operator overloading:
+With Operator Overloading
 
 result = obj1 + obj2;
 
 4. Syntax of Operator Overloading
+
+General Syntax:
 
 return_type operator symbol(parameters)
 {
@@ -40,10 +63,11 @@ return_type operator symbol(parameters)
 
 Explanation:
 
-- "return_type": Type of returned value.
-- "operator": Keyword used for overloading.
-- "symbol": Operator to be overloaded.
-- "parameters": Values or objects passed to the function.
+Part| Description
+"return_type"| Type of returned value.
+"operator"| Keyword used for overloading.
+"symbol"| Operator to be overloaded.
+"parameters"| Values or objects passed to the function.
 
 5. Working of Operator Overloading
 
@@ -57,7 +81,7 @@ It works like:
 
 obj3 = obj1.operator+(obj2);
 
-This is the member-function form of operator overloading.
+«Important: This is the member-function form of operator overloading.»
 
 6. Rules of Operator Overloading
 
@@ -92,9 +116,14 @@ Operator overloading allows existing operators to work with user-defined data ty
 
 ---
 
-Next Topics:
+📚 Next Topics
 
-- 37 — Overloading Binary Operators
-- 38 — Overloading Unary Operators
-- 39 — Overloading ++ Operator
-- 40 — Overloading -- Operator
+No.| Topic
+37| Overloading Binary Operators
+38| Overloading Unary Operators
+39| Overloading ++ Operator
+40| Overloading -- Operator
+
+---
+
+<sub>BSCS Notes · Semester 03 · Object Oriented Programming</sub>
