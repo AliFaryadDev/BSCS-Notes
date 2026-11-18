@@ -21,7 +21,8 @@ Introduction to OOP and C++
 
 Introduction to Classes, Objects and Member Functions
 
-- 06 — Encapsulation 
+- [06 — Encapsulation](06%20—%20Encapsulation.md)
+
 
 
 - 07 — Abstraction
