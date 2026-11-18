@@ -71,7 +71,7 @@ Copy Constructor
 Operator Overloading
 
 - 35 — Overloaded Operators of Standard Library
-- [36 — Operator Overloading](36%20—%20Operator%20verloading.md)
+- [36 — Operator Overloading](36%20—%20Operator%20Overloading.md)
 - 37 — Overloading Binary Operators
 - 38 — Overloading Unary Operators
 - 39 — Overloading ++ Operator
