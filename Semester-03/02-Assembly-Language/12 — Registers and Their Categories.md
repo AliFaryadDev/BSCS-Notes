@@ -27,6 +27,9 @@
 - [Conclusion](#conclusion)
 
 ## Introduction
+Registers are small, high-speed storage locations inside the Central Processing Unit (CPU).
+They temporarily hold data, instructions, memory addresses, and intermediate results during program execution.
 
+Urdu ma bole to
 
 Made with ❤️ by Muhammad Ali
