@@ -26,7 +26,7 @@
 - [Registers vs Cache Memory vs RAM](#registers-vs-cache-memory-vs-ram)
 - [Conclusion](#conclusion)
 
-# I
+
 
 ---
 
