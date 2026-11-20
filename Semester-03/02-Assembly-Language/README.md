@@ -27,7 +27,7 @@
 - 09 — Memory Architecture
 - 10 — Memory Representation & Hierarchy
 - 11 — Data, Address, Control Busses
-- [12 — Registers and Their Categories](12)
+- [12 — Registers and Their Categories](12%20—%20Registers%20and%20Their%20Categories.md)
 - 13 — Function of Registers
 - 14 — Memory Addressing
 
