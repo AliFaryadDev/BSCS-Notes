@@ -20,7 +20,7 @@ Table of Contents
 - [05 — Introduction to OOP](05-introduction-to-oop.md)
 
 ## Introduction to Classes, Objects and Member Functions
-- [06 — Encapsulation](encapsulation.md)
+- [06 — Encapsulation](06-encapsulation.md)
 - [07 — Abstraction](07-abstraction.md)
 - [08 — Class and Object](08-class-and-object.md)
 - [09 — Getter/Setter Functions](09-getter-and-setter-functions.md)
