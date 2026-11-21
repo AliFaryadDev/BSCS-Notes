@@ -51,7 +51,7 @@ Composition and Aggregation
 
 - [26 — Object Composition](26-object-composition.md)
 - [27 — Object Aggregation](27-object-aggregation.md)
-- 28 — Class Separation Using Header Files
+- [28 — Class Separation Using Header Files](28-clas)
 
 Friend Classes and Functions
 
