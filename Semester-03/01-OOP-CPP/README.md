@@ -30,7 +30,7 @@ Introduction to OOP and C++
 - [13 — Default Constructor](13-default-constructor.md)
 - [14 — Destructor](14-destructor.md)
 
-Functions
+## Functions
 
 - [15 — Inline Functions](15-inline-functions.md)
 - [16 — Function Overloading](16-function-overloading.md)
