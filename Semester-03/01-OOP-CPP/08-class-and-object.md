@@ -125,4 +125,5 @@ A class is a blueprint that defines data members and member functions, while an 
 **Topic:** 08 — Class and Object
 ```
 
-**Yaad rakhne wali simple example:** Class = House ka design, Object = us design se bana hua actual house.
+> **Yaad rakhne wali simple example:**
+Class = House ka design, Object = us design se bana hua actual house.
