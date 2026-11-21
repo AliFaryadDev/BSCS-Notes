@@ -13,7 +13,7 @@ Follow-up: None
 
 ### Managing and the Manager's Job
 
-- [01 - Introduction to Management](01%20—%20introduction%20to%20management)
+- [01 — Introduction to Management](01%20—%20introduction%20to%20management)
 - 02 — The Management Process
 - 03 — Kinds of Managers
 - 04 — Basic Managerial Roles and Skills
