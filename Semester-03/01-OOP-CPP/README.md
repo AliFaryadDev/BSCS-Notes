@@ -62,7 +62,7 @@ Introduction to OOP and C++
 
 - [31 — "this" Pointer](31-this-pointer.md)
 - [32 — Static Data Members](32-static-data-member.md)
-- 33 — Static Member Functions
+- [33 — Static Member Functions](33-static-member-functions.md)
 
 ## Copy Constructor
 
