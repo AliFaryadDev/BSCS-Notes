@@ -1,4 +1,3 @@
-
 # Static Data Members
 
 **Subject:** Object Oriented Programming (OOP)  
