@@ -32,7 +32,7 @@ Introduction to Classes, Objects and Member Functions
 
 Functions
 
-- 15 — Inline Functions
+- [15 — Inline Functions]
 - 16 — Function Overloading
 
 Class Templates and Arrays
