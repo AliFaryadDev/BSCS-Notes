@@ -17,7 +17,7 @@ Table of Contents
 ## Introduction to OOP and C++
 
 - [04 — Brief Description of C++ Concepts](04-brief-description-of-cpp-concepts.md)
-- [05 — Introduction to OOP](05 — Introduction to OOP)
+- [05 — Introduction to OOP](05-introduction-to-oop)
 
 ## Introduction to Classes, Objects and Member Functions
 - [06 — Encapsulation](06%20—%20Encapsulation.md)
