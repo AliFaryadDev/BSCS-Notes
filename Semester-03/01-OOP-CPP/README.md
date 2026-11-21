@@ -22,7 +22,7 @@ Introduction to OOP and C++
 Introduction to Classes, Objects and Member Functions
 - [06 — Encapsulation](06%20—%20Encapsulation.md)
 - [07 — Abstraction](07-abstraction.md)
-- 08 — Class and Object
+- [08 — Class and Object]()
 - 09 — Getter/Setter Functions
 - 10 — Access Specifiers
 - 11 — Constructors
