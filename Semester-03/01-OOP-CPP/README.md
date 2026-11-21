@@ -75,7 +75,7 @@ Table of Contents
 - [37 — Overloading Binary Operators](37-overloading-binary-operators.md)
 - [38 — Overloading Unary Operators](38-overloading-unary-operator.md)
 - [39 — Overloading ++ Operator](39-overloading-++-operator.md)
-- 40 — Overloading -- Operator
+- [40 — Overloading -- Operator](40-overloading----operator.md)
 - 41 — Dynamic Memory Management
 - 42 — Operators as Members vs Non-Members
 - 43 — Conversion Between Types
