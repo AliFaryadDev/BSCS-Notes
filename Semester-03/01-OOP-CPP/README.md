@@ -14,7 +14,7 @@ Table of Contents
 - [02 — History of Object-Oriented Design](02-history-of-object-oriented-design.md)
 - [03 — Advantages of Object-Oriented Design](03-advantages-of-object-oriented-design.md)
 
-Introduction to OOP and C++
+## Introduction to OOP and C++
 
 - 04 — Brief Description of C++ Concepts
 - 05 — Introduction to OOP
