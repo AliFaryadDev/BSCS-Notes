@@ -70,7 +70,7 @@ Introduction to OOP and C++
 
 ## Operator Overloading
 
-- 35 — Overloaded Operators of Standard Library
+- [35 — Overloaded Operators of Standard Library](35-overloaded-operator-of-standard-library.md)
 - [36 — Operator Overloading](36-operator-overloading.md)
 - 37 — Overloading Binary Operators
 - 38 — Overloading Unary Operators
