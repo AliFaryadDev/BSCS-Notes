@@ -19,7 +19,7 @@ Introduction to OOP and C++
 - 04 — Brief Description of C++ Concepts
 - 05 — Introduction to OOP
 
-Introduction to Classes, Objects and Member Functions
+## Introduction to Classes, Objects and Member Functions
 - [06 — Encapsulation](06%20—%20Encapsulation.md)
 - [07 — Abstraction](07-abstraction.md)
 - [08 — Class and Object](08-class-and-object.md)
