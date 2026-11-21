@@ -60,7 +60,7 @@ Introduction to OOP and C++
 
 ## Static Members
 
-- [31 — "this" Pointer]
+- [31 — "this" Pointer](31-"")
 - 32 — Static Data Members
 - 33 — Static Member Functions
 
