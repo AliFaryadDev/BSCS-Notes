@@ -45,7 +45,9 @@ Introduction to OOP and C++
 - 22 — Reference to Private Data Members
 - 23 — Default Member-wise Assignment
 - 24 — Const Objects
-- 25 — Const Member ## Functions
+- 25 — Const Member
+
+## Functions
 
 Composition and Aggregation
 
