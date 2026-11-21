@@ -50,7 +50,7 @@ Class Templates and Arrays
 Composition and Aggregation
 
 - [26 — Object Composition](26-object-composition.md)
-- 27 — Object Aggregation
+- [27 — Object Aggregation](27-object-agge)
 - 28 — Class Separation Using Header Files
 
 Friend Classes and Functions
