@@ -1,193 +1,112 @@
-# Object Oriented Programming (CC-211)
+# Database Systems (CC-215)
 
-**Semester:** 03\
-**Credit Hours:** 3 (3,0)\
-**Prerequisite:** CC-112 -- Programming Fundamentals
+**Credit Hours:** 3 (3,0)  
+**Category:** Computing Core  
+**Prerequisite:** None  
+**Co-Requisite:** None  
+**Follow-up:** None
 
 —
+
 ## Table of Contents
 
-## Introduction to Object-Oriented Design
+## File Systems and Databases
 
--   [01 — Introduction to Object-Oriented
-    Design](01-introduction-to-object-oriented-design.md)
--   [02 — History of Object-Oriented
-    Design](02-history-of-object-oriented-design.md)
--   [03 — Advantages of Object-Oriented
-    Design](03-advantages-of-object-oriented-design.md)
+- [01 — Introduction to File Systems and Databases](01-introduction-to-file-systems-and-databases.md)
+- [02 — A File System Critique](02-a-file-system-critique.md)
+- [03 — Database Systems](03-database-systems.md)
+- [04 — Database Approach vs. File-Based System](04-database-approach-vs-file-based-system.md)
+- [05 — Database Architecture](05-database-architecture.md)
+- [06 — Three-Level Schema Architecture](06-three-level-schema-architecture.md)
+- [07 — Data Independence](07-data-independence.md)
+- [08 — Database Models](08-database-models.md)
 
-## Introduction to OOP and C++
+## Introduction to RDBMS
 
--   [04 — Brief Description of C++
-    Concepts](04-brief-description-of-cplus-plus-concepts.md)
--   [05 — Introduction to OOP](05-introduction-to-oop.md)
+- [09 — Logical View of Data](09-logical-view-of-data.md)
+- [10 — Entities and Attributes](10-entities-and-attributes.md)
+- [11 — Tables and Their Characteristics](11-tables-and-their-characteristics.md)
+- [12 — Keys](12-keys.md)
+- [13 — Relational Data Model](13-relational-data-model.md)
+- [14 — Attributes, Schemas, Tuples, and Domains](14-attributes-schemas-tuples-and-domains.md)
+- [15 — Relation Instances](15-relation-instances.md)
+- [16 — Keys of Relations](16-keys-of-relations.md)
+- [17 — Integrity Constraints](17-integrity-constraints.md)
 
-## Introduction to Classes, Objects and Member Functions
+## Relational Algebra
 
--   [06 — Encapsulation](06-encapsulation.md)
--   [07 — Abstraction](07-abstraction.md)
--   [08 — Class and Object](08-class-and-object.md)
--   [09 — Getter/Setter Functions](09-getter-setter-functions.md)
--   [10 — Access Specifiers](10-access-specifiers.md)
--   [11 — Constructors](11-constructors.md)
--   [12 — Overloaded Constructor](12-overloaded-constructor.md)
--   [13 — Default Constructor](13-default-constructor.md)
--   [14 — Destructor](14-destructor.md)
+- [18 — Relational Database Operators](18-relational-database-operators.md)
+- [19 — Selection](19-selection.md)
+- [20 — Projection](20-projection.md)
+- [21 — Cartesian Product](21-cartesian-product.md)
+- [22 — Types of Joins](22-types-of-joins.md)
 
-## Functions
+## Entity Relationship (E-R) Modeling
 
--   [15 — Inline Functions](15-inline-functions.md)
--   [16 — Function Overloading](16-function-overloading.md)
+- [23 — Basic Modeling Concepts](23-basic-modeling-concepts.md)
+- [24 — Entity Sets](24-entity-sets.md)
+- [25 — Entity Attributes](25-entity-attributes.md)
+- [26 — Relationships](26-relationships.md)
+- [27 — Entity-Relationship Diagrams](27-entity-relationship-diagrams.md)
 
-## Class Templates and Arrays
+## Normalization of Database Tables
 
--   [17 — Function Templates](17-function-templates.md)
--   [18 — Class Templates](18-class-templates.md)
--   [19 — Arrays](19-arrays.md)
--   [20 — Vectors](20-vectors.md)
--   [21 — Multidimensional Array](21-multidimensional-array.md)
--   [22 — Reference to Private Data
-    Members](22-reference-to-private-data-members.md)
--   [23 — Default Member-wise
-    Assignment](23-default-member-wise-assignment.md)
--   [24 — Const Objects](24-const-objects.md)
--   [25 — Const Member Functions](25-const-member-functions.md)
+- [28 — Objectives of Normalization](28-objectives-of-normalization.md)
+- [29 — Normalization and Database Design](29-normalization-and-database-design.md)
+- [30 — Functional Dependencies](30-functional-dependencies.md)
+- [31 — Normal Forms](31-normal-forms.md)
+- [32 — Denormalization](32-denormalization.md)
 
-## Composition and Aggregation
+## Structured Query Language (SQL)
 
--   [26 — Object Composition](26-object-composition.md)
--   [27 — Object Aggregation](27-object-aggregation.md)
--   [28 — Class Separation Using Header
-    Files](28-class-separation-using-header-files.md)
+- [33 — Introduction to SQL](33-introduction-to-sql.md)
+- [34 — DDL Commands](34-ddl-commands.md)
+- [35 — DML Commands](35-dml-commands.md)
+- [36 — DCL Commands](36-dcl-commands.md)
+- [37 — Joins and Subqueries in SQL](37-joins-and-subqueries-in-sql.md)
+- [38 — Grouping and Aggregation in SQL](38-grouping-and-aggregation-in-sql.md)
+- [39 — Complex Queries](39-complex-queries.md)
+- [40 — SQL Functions](40-sql-functions.md)
+- [41 — Procedural SQL](41-procedural-sql.md)
+- [42 — Triggers](42-triggers.md)
+- [43 — Stored Procedures](43-stored-procedures.md)
 
-## Friend Classes and Functions
+## Database Design
 
--   [29 — Friend Functions](29-friend-functions.md)
--   [30 — Friend Classes](30-friend-classes.md)
+- [44 — System Development Life Cycle (SDLC)](44-system-development-life-cycle-sdlc.md)
+- [45 — Database Life Cycle (DBLC)](45-database-life-cycle-dblc.md)
+- [46 — Database Design Strategies](46-database-design-strategies.md)
 
-## Static Members
+## Transaction Management and Concurrency Control
 
--   [31 — "this" Pointer](31-this-pointer.md)
--   [32 — Static Data Members](32-static-data-members.md)
--   [33 — Static Member Functions](33-static-member-functions.md)
+- [47 — Introduction to Transaction Management and Concurrency Control](47-introduction-to-transaction-management-and-concurrency-control.md)
+- [48 — Transaction Properties and Types](48-transaction-properties-and-types.md)
+- [49 — Concurrency Control Issues](49-concurrency-control-issues.md)
+- [50 — Database Recovery Management](50-database-recovery-management.md)
 
-## Copy Constructor
+## Database Management Systems (DBMS)
 
--   [34 — Default Copy Constructor](34-default-copy-constructor.md)
-
-## Operator Overloading
-
--   [35 — Overloaded Operators of Standard
-    Library](35-overloaded-operators-of-standard-library.md)
--   [36 — Operator Overloading](36-operator-overloading.md)
--   [37 — Overloading Binary
-    Operators](37-overloading-binary-operators.md)
--   [38 — Overloading Unary
-    Operators](38-overloading-unary-operators.md)
--   [39 — Overloading ++
-    Operator](39-overloading-plus-plus-operator.md)
--   [40 — Overloading --
-    Operator](40-overloading-minus-minus-operator.md)
--   [41 — Dynamic Memory Management](41-dynamic-memory-management.md)
--   [42 — Operators as Members vs
-    Non-Members](42-operators-as-members-vs-non-members.md)
--   [43 — Conversion Between Types](43-conversion-between-types.md)
--   [44 — Explicit Constructor and Conversion
-    Operators](44-explicit-constructor-and-conversion-operators.md)
--   [45 — Overloading the Function Call
-    Operator](45-overloading-the-function-call-operator.md)
-
-## Stream I/O
-
--   [46 — Introduction to Streams](46-introduction-to-streams.md)
--   [47 — Streams Input](47-streams-input.md)
--   [48 — Streams Output](48-streams-output.md)
--   [49 — Object Streams](49-object-streams.md)
--   [50 — Data and Object Serialization Using Object
-    Streams](50-data-and-object-serialization-using-object-streams.md)
-
-## Inheritance
-
--   [51 — Introduction to
-    Inheritance](51-introduction-to-inheritance.md)
--   [52 — Base and Derived Classes](52-base-and-derived-classes.md)
--   [53 — Relationships Between Base and Derived
-    Classes](53-relationships-between-base-and-derived-classes.md)
--   [54 — Constructors in Derived
-    Classes](54-constructors-in-derived-classes.md)
--   [55 — Destructor in Derived
-    Classes](55-destructor-in-derived-classes.md)
--   [56 — Public Inheritance](56-public-inheritance.md)
--   [57 — Protected Inheritance](57-protected-inheritance.md)
--   [58 — Private Inheritance](58-private-inheritance.md)
-
-## Polymorphism
-
--   [59 — Relationship Among Objects in
-    Inheritance](59-relationship-among-objects-in-inheritance.md)
--   [60 — Virtual Functions](60-virtual-functions.md)
--   [61 — Virtual Destructors](61-virtual-destructors.md)
--   [62 — Pure Virtual Functions](62-pure-virtual-functions.md)
--   [63 — Abstract Classes](63-abstract-classes.md)
--   [64 — Concrete Classes](64-concrete-classes.md)
-
-## File Processing
-
--   [65 — Files and Streams](65-files-and-streams.md)
--   [66 — Create a Sequential File](66-create-a-sequential-file.md)
--   [67 — Read a Sequential File](67-read-a-sequential-file.md)
--   [68 — Update a Sequential File](68-update-a-sequential-file.md)
--   [69 — Random Access File](69-random-access-file.md)
--   [70 — Create a Random-Access
-    File](70-create-a-random-access-file.md)
--   [71 — Read a Random-Access File](71-read-a-random-access-file.md)
--   [72 — Update a Random-Access
-    File](72-update-a-random-access-file.md)
-
-## Exception Handling
-
--   [73 — Flow of Control](73-flow-of-control.md)
--   [74 — Rethrowing an Exception](74-rethrowing-an-exception.md)
--   [75 — Constructor, Destructor and Exception
-    Handling](75-constructor-destructor-and-exception-handling.md)
-
-## Generic Programming Concepts
-
--   [76 — Custom Templates](76-custom-templates.md)
--   [77 — Class Templates](77-class-templates.md)
--   [78 — Function Templates](78-function-templates.md)
--   [79 — Arguments to Templates](79-arguments-to-templates.md)
--   [80 — Overloading Function
-    Templates](80-overloading-function-templates.md)
-
-## Standard Library
-
--   [81 — Containers](81-containers.md)
--   [82 — Iterators](82-iterators.md)
--   [83 — Adapters](83-adapters.md)
--   [84 — Sequence Containers](84-sequence-containers.md)
--   [85 — Associative Containers](85-associative-containers.md)
--   [86 — Container Adapters](86-container-adapters.md)
--   [87 — Minimum Iterator
-    Requirements](87-minimum-iterator-requirements.md)
--   [88 — Lambda Expressions](88-lambda-expressions.md)
--   [89 — Function Objects](89-function-objects.md)
+- [51 — Evolution of DBMS](51-evolution-of-dbms.md)
+- [52 — Components of DBMS](52-components-of-dbms.md)
+- [53 — Distributed Processing and Distributed Databases](53-distributed-processing-and-distributed-databases.md)
+- [54 — Distributed Database Transparency Features](54-distributed-database-transparency-features.md)
+- [55 — Distributed Database Design](55-distributed-database-design.md)
+- [56 — Data Fragmentation](56-data-fragmentation.md)
+- [57 — Data Replication](57-data-replication.md)
+- [58 — NoSQL Systems](58-nosql-systems.md)
 
 —
-## References
 
-### Textbook
+## Textbook
 
--   P. Deitel and H. Deitel — *C++ How to Program*, 10th Edition,
-    Pearson.
+- Carlos Coronel and Steven Morris — *Database Systems: Design, Implementation & Management*, 13th Edition, Cengage Learning, 2017. ISBN-10: 1337627909.
 
-### Reference Books
+## Reference Material
 
--   Robert Lafore — *Object Oriented Programming in C++*, 3rd Edition.
--   Tony Gaddis — *Starting Out with C++: From Control Structures to
-    Objects*, 9th Edition, Pearson, 2018.
--   Jeri R. Hanly and Elliot B. Koffman — *Problem Solving and Program
-    Design in C++*, 7th Edition.
+- Jeffrey A. Hoffer, Ramesh Venkataraman, and Heikki Topi — *Modern Database Management*, 12th Edition, Pearson, 2015. ISBN-10: 0133544613.
+- Thomas Connolly and Carolyn Begg — *Database Systems: A Practical Approach to Design, Implementation and Management*, 6th Edition, Pearson, 2015. ISBN-10: 1292061189.
+- Ramez Elmasri and Shamkant B. Navathe — *Fundamentals of Database Systems*, 7th Edition, Pearson, 2016. ISBN-10: 1292097612.
 
 —
-**BS Computer Science \| Semester 03 \| CC-211**
+
+**BS Computer Science | CC-215 | Database Systems**
