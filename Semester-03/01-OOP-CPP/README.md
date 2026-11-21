@@ -56,7 +56,7 @@ Introduction to OOP and C++
 ## Friend Classes and Functions
 
 - [29 — Friend Functions](29-friend-functions.md)
-- [30 — Friend Classes]()
+- [30 — Friend Classes](30-friend-classes.md)
 
 ## Static Members
 
