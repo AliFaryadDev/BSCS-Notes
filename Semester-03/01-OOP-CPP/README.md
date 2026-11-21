@@ -33,7 +33,7 @@ Introduction to Classes, Objects and Member Functions
 Functions
 
 - [15 — Inline Functions](15-inline-functions.md)
-- [16 — Function Overloading](16-functi)
+- [16 — Function Overloading](16-function-overloading.md)
 
 Class Templates and Arrays
 
