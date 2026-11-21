@@ -8,7 +8,7 @@ Prerequisite: CC-112 – Programming Fundamentals
 
 Table of Contents
 
-# Introduction to Object-Oriented Design
+## Introduction to Object-Oriented Design
 
 - 01 — Introduction to Object-Oriented Design
 - 02 — History of Object-Oriented Design
