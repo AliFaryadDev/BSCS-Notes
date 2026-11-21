@@ -47,7 +47,7 @@ Introduction to OOP and C++
 - 24 — Const Objects
 - 25 — Const Member Functions
 
-Composition and Aggregation
+## Composition and Aggregation
 
 - [26 — Object Composition](26-object-composition.md)
 - [27 — Object Aggregation](27-object-aggregation.md)
