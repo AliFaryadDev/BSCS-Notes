@@ -1,4 +1,4 @@
-# Management (GE-192)
+(# Management (GE-192)
 
 Semester: 03  
 Credit Hours: 2 (2,0)  
