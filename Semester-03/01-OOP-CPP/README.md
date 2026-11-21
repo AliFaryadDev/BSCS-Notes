@@ -28,7 +28,7 @@ Introduction to Classes, Objects and Member Functions
 - [11 — Constructors](11-constructors.md)
 - [12 — Overloaded Constructor](12-overloaded-constructor.md)
 - [13 — Default Constructor](13-default-constructor.md)
-- [14 — Destructor](14)
+- [14 — Destructor](14-destructor)
 
 Functions
 
