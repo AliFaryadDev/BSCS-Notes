@@ -35,7 +35,7 @@ Introduction to OOP and C++
 - [15 — Inline Functions](15-inline-functions.md)
 - [16 — Function Overloading](16-function-overloading.md)
 
-Class Templates and Arrays
+## Class Templates and Arrays
 
 - 17 — Function Templates
 - 18 — Class Templates
