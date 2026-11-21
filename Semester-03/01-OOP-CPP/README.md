@@ -53,22 +53,22 @@ Introduction to OOP and C++
 - [27 — Object Aggregation](27-object-aggregation.md)
 - [28 — Class Separation Using Header Files](28-class-seperation-using-header-files.md)
 
-Friend Classes and Functions
+## Friend Classes and Functions
 
 - 29 — Friend Functions
 - 30 — Friend Classes
 
-Static Members
+## Static Members
 
 - 31 — "this" Pointer
 - 32 — Static Data Members
 - 33 — Static Member Functions
 
-Copy Constructor
+## Copy Constructor
 
 - 34 — Default Copy Constructor
 
-Operator Overloading
+## Operator Overloading
 
 - 35 — Overloaded Operators of Standard Library
 - [36 — Operator Overloading](36%20—%20Operator%20Overloading.md)
