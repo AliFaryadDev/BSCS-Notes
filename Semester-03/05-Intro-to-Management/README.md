@@ -41,7 +41,7 @@ Follow-up: None
 
 - 18 — Introduction to Organizing
 - 19 — Designing Jobs
-- [20 — Grouping Jobs](20)
+- [20 — Grouping Jobs](20-grouping-jobs.md)
 - 21 — Establishing Reporting Relationships
 - 22 — Distributing Authority
 - 23 — Coordinating Activities
