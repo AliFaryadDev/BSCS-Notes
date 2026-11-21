@@ -66,7 +66,7 @@ Introduction to OOP and C++
 
 ## Copy Constructor
 
-- 34 — Default Copy Constructor
+- [34 — Default Copy Constructor](34-default-copy-constructor.md)
 
 ## Operator Overloading
 
