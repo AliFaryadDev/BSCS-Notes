@@ -1,0 +1,1 @@
+33 — Static Member Function
