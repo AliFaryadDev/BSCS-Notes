@@ -27,13 +27,7 @@ private:
 public:
     // Member functions
 };
-```
-### Diagram
-```mermaid
-flowchart TD
-    A["class<br/><br>Creates a class"]
-    A --> B["private<br/><br>Restricts access to members<br/>within the same class"]
-    A --> C["public<br/><br>Allows access to <br>members<br/>from outside the class"]
+
   ```
   ## Example
   ``` cpp
