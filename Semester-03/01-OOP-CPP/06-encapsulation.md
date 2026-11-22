@@ -72,75 +72,7 @@ int main() {
     return 0;
 }
 ```
-## Working
-### Step 1: Object Creation
-<br>
 
-**Code**
-```cpp
-Student s1; 
-```
-<br>
-
-**Diagram**
-
-```mermaid
-flowchart TD
-    A["Program starts"] --> B["Student s1;"]
-    B --> C["Memory allocated for s1"]
-    C --> D["Object created"]
-  ```
-  <br>
-
- **Code Mapping**
- ```mermaid
- mindmap
-  root((Student))
-    Class
-      User-defined data type
-    Object
-      s1
-      Instance of Student
-   ```
-   <br>
-   
-💡 **Takeaway:**
-> An object is an instance of a class and is used to access its public members.
-
-### Step 2 — Setting Data
-<br>
-
-**Code**
-```cpp
- s1.setAge(20);
-```
-<br>
-
-**Diagram**
-```mermaid
-flowchart TD
-    A["s1.setAge(20)"] --> B["setAge(int a)"]
-    B --> C["a = 20"]
-    C --> D["age = a"]
-    D --> E["Private age = 20"]
-  ```
-<br>
-
-**Code Mapping**
-```mermaid
-mindmap
-  root((setAge))
-    Object
-      s1
-    Argument
-      20
-    Parameter
-      a
-    Private Data
-      age
-  ```
-  <br>
-  
 **Result**
 
 >Private variable age now stores 20.
