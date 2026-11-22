@@ -25,7 +25,7 @@ Object-Oriented Design (OOD) is a paradigm for software development in which a s
 | **Paradigm** | Conceptual model or development approach. | Programmers **use** UML (Unified Modeling Language) diagrams to visualize it. |
 | **Classes** | Blueprints arranged in a **hierarchical structure** (Base & Subclass). | Involves the concept of **inheritance**. |
 | **Object** | A specific instance of a class. | A *9th class book* (with attributes like *genre: academic*). |
-| **Domain Object** | Represents a single software entity. | Must be **either** *Physical* (e.g., hardware) **or** *Abstract* (e.g., a transaction)—never both at once. |
+| **Domain Object** | Represents a single software entity. | Must be **either** *Physical* (e.g., hardware) **or** *Abstract* (e.g., a transaction) It can never both at once. |
 
 ---
 
