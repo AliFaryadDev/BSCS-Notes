@@ -62,8 +62,6 @@ int main() {
 ## Result
   >Result is 20
 
-<br>
-
 ## Conclusion
 
 Encapsulation combines data and related functions into a single class. It keeps data safe and allows access through public member functions.
