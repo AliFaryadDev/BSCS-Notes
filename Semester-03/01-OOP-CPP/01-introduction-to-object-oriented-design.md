@@ -69,7 +69,4 @@ We model a **Student Management System** by defining a `Student` class with its 
 Object-Oriented Design is a software design approach that uses classes and objects to organize programs. It helps developers create reusable, organized, and maintainable software.
 
 ---
-
-**Prepared by:** Muhammad Ali  
-**Subject:** Object Oriented Programming  
-**Topic:** 01 — Introduction to Object-Oriented Design
+Made with ❤️ by Muhammad Ali
