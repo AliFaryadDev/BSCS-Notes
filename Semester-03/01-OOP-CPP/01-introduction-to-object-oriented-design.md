@@ -16,10 +16,6 @@
 
 Object-Oriented Design (OOD) is a paradigm for software development in which a system is designed using objects and classes. It structures the software around real-world domain entities. 
 
-# Object-Oriented Design (OOD)
-
-**Object-Oriented Design** is a paradigm for software development in which software is designed using classes and objects. It structures the software by using real-world domain entities.
-
 ---
 
 ## Core Building Blocks
