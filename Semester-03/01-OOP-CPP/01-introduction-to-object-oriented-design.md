@@ -24,6 +24,7 @@ Object-Oriented Design (OOD) is a paradigm for software development in which a s
 * **Domain Objects**:
   * **Physical components**: Such as hardware.
   * **Abstract components**: Such as a transaction.
+  * represent both physical and abstract components of the software.
 * **A domain object**:  It can either physical or abstract means non physical but can not be both.
 
 >Classification (entities tay karna) & Organization (entities ko aapas ma joorna take un ke darmiyaan taluqaat ko or interaction ko wazeh kya jaa sake ta ke system mukmal tor par kaam kar sake)
