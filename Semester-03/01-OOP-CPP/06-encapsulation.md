@@ -79,61 +79,6 @@ int main() {
 <br>
 
 **💡 Takeaway**
->The getAge() function returns the value of the private data member age.
-
-
-
-<br>
-
-**💡 Takeaway**
-> The cout statement displays the value returned by the getAge() function.
-
-**Step 5 — Complete Program Execution**
-<br>
-
-**Code**
-```cpp
-int main() {
-    Student s1;
-
-    s1.setAge(20);
-
-    cout << s1.getAge();
-
-    return 0;
-}
-```
-<br>
-
-**Diagram**
-```mermaid
-flowchart TD
-    A["Program starts"] --> B["Create object s1"]
-    B --> C["Call setAge(20)"]
-    C --> D["Private age stores 20"]
-    D --> E["Call getAge()"]
-    E --> F["Return 20"]
-    F --> G["Display 20"]
-    G --> H["Program ends"]
-  ```
-  <br>
-
-  **Code Mapping**
-  ```mermaid
-  flowchart TD
-    A["Student s1"] --> B["Object Creation"]
-    C["s1.setAge(20)"] --> D["Set age = 20"]
-    E["s1.getAge()"] --> F["Return age"]
-    G["cout"] --> H["Display returned value"]
-  ```
-  <br>
-
-  **Output**
-  >Result is 20
-
-<br>
-
-**💡 Takeaway**
 > Encapsulation allows private data to be accessed and modified through public member functions.
 
 ## Conclusion
