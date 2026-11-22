@@ -63,7 +63,7 @@
 - [35 — SUB Instruction](35-sub-instruction.md)
 - [36 — INC Instruction](36-inc-instruction.md)
 - [37 — DEC Instruction](37-dec-instruction.md)
-- 38 — NEG Instruction
+- [38 — NEG Instruction]()
 
 ## Processor Status and Flow Control
 
