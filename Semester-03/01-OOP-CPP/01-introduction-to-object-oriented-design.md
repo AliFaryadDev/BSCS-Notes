@@ -14,7 +14,7 @@
 
 ## Definition
 
-Object-Oriented Design (OOD) is a paradigm for software development in which a system is designed using objects and classes. It focuses on organizing software around domain objects. 
+Object-Oriented Design (OOD) is a paradigm for software development in which a system is designed using objects and classes. It structures the system around real-world domain entities. 
 
 ## Additional Concepts
 
