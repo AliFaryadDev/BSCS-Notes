@@ -4,7 +4,6 @@
 - [Introduction](#introduction)
 - [Definition](#definition)
 - [Purpose](#purpose)
-- [Access Specifiers](#access-specifiers)
 - [Syntax](#syntax)
 - [Example](#example)
 - [Conclusion](#conclusion)
