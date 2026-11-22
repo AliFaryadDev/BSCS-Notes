@@ -1,300 +1,137 @@
 
-# Computer Organization & Assembly Language
+# Computer Organization & Assembly Language (CC-210)
 
-**Course Code:** CC-210  
+**Semester:** 03  
 **Credit Hours:** 3 (2,1)  
-**Category:** Computing Core  
-**Prerequisite:** CC-110 — Digital Logic Design  
-**Co-Requisite:** None  
-**Follow-up:** None
+**Prerequisite:** CC-110 – Digital Logic Design
 
 ---
 
 ## Table of Contents
 
-- [Course Introduction](#course-introduction)
-- [Course Learning Outcomes (CLOs)](#course-learning-outcomes-clos)
-- [Course Description](#course-description)
-  - [01 — Introduction to Computer Systems](#01--introduction-to-computer-systems)
-  - [02 — Evolution of Intel Microprocessor](#02--evolution-of-intel-microprocessor)
-  - [03 — Introduction to Assembly Language](#03--introduction-to-assembly-language)
-  - [04 — Computer Organization](#04--computer-organization)
-  - [05 — Instruction Cycle](#05--instruction-cycle)
-  - [06 — Memory Architecture](#06--memory-architecture)
-  - [07 — Memory Representation & Hierarchy](#07--memory-representation--hierarchy)
-  - [08 — Data, Address and Control Buses](#08--data-address-and-control-buses)
-  - [09 — Intel 8086 Family of Microprocessors](#09--intel-8086-family-of-microprocessors)
-  - [10 — Organization of Intel 8088/8086 Processor](#10--organization-of-intel-80888086-processor)
-  - [11 — Registers and Their Categories](#11--registers-and-their-categories)
-  - [12 — Functions of Registers](#12--functions-of-registers)
-  - [13 — Memory Addressing](#13--memory-addressing)
-  - [14 — Real Mode Memory Structure](#14--real-mode-memory-structure)
-  - [15 — Memory Segmentation](#15--memory-segmentation)
-  - [16 — Basic Computer Instructions](#16--basic-computer-instructions)
-  - [17 — Addressing Modes](#17--addressing-modes)
-  - [18 — Instruction Timing and Decoding](#18--instruction-timing-and-decoding)
-  - [19 — RTL of Instructions](#19--rtl-of-instructions)
-  - [20 — Basic Computer Operation Flowchart](#20--basic-computer-operation-flowchart)
-  - [21 — Design of CPU](#21--design-of-cpu)
-  - [22 — Assembly Language Syntax](#22--assembly-language-syntax)
-  - [23 — Program Data and Variables](#23--program-data-and-variables)
-  - [24 — Program Structure](#24--program-structure)
-  - [25 — Memory Models](#25--memory-models)
-  - [26 — Data, Stack and Code Segments](#26--data-stack-and-code-segments)
-  - [27 — Variants of MOV Instruction](#27--variants-of-mov-instruction)
-  - [28 — Basic Instructions](#28--basic-instructions)
-  - [29 — Processor Status and Flags Register](#29--processor-status-and-flags-register)
-  - [30 — Flow Control Instructions](#30--flow-control-instructions)
-  - [31 — Jump Instructions](#31--jump-instructions)
-  - [32 — Looping Structures](#32--looping-structures)
-  - [33 — Logic Instructions](#33--logic-instructions)
-  - [34 — Shift and Rotate Instructions](#34--shift-and-rotate-instructions)
-  - [35 — Number Input and Output Procedures](#35--number-input-and-output-procedures)
-  - [36 — Stack, PUSH and POP](#36--stack-push-and-pop)
-  - [37 — CALL and RET Instructions](#37--call-and-ret-instructions)
-  - [38 — MUL and DIV Instructions](#38--mul-and-div-instructions)
-  - [39 — Related Programming Examples](#39--related-programming-examples)
-  - [40 — XLAT Instruction](#40--xlat-instruction)
-  - [41 — String Instructions](#41--string-instructions)
-  - [42 — File Operations](#42--file-operations)
-- [Textbooks](#textbooks)
-- [Reference Material](#reference-material)
+## Introduction to Computer Systems
+
+- [01 — Introduction to Computer Systems](01-introduction-to-computer-systems.md)
+- [02 — Evolution of Intel Microprocessor](02-evolution-of-intel-microprocessor.md)
+- [03 — Introduction to Assembly Language](03-introduction-to-assembly-language.md)
+- [04 — Computer Organization](04-computer-organization.md)
+- [05 — Components of a Microcomputer System](05-components-of-a-microcomputer-system.md)
+
+## Computer Architecture and Memory
+
+- [06 — Instruction Cycle](06-instruction-cycle.md)
+- [07 — Memory Architecture](07-memory-architecture.md)
+- [08 — Memory Representation and Hierarchy](08-memory-representation-and-hierarchy.md)
+- [09 — Data, Address and Control Buses](09-data-address-and-control-buses.md)
+
+## Intel 8086 Microprocessor
+
+- [10 — Intel 8086 Family of Microprocessors](10-intel-8086-family-of-microprocessors.md)
+- [11 — Organization of Intel 8088/8086 Processor](11-organization-of-intel-8088-8086-processor.md)
+- [12 — Registers and Their Categories](12-registers-and-their-categories.md)
+- [13 — Functions of Registers](13-functions-of-registers.md)
+- [14 — Memory Addressing](14-memory-addressing.md)
+- [15 — Real Mode Memory Structure](15-real-mode-memory-structure.md)
+- [16 — Memory Segmentation](16-memory-segmentation.md)
+
+## Basic Computer Organization and Operation
+
+- [17 — Memory Reference Instructions](17-memory-reference-instructions.md)
+- [18 — Register Reference Instructions](18-register-reference-instructions.md)
+- [19 — I/O Instructions](19-io-instructions.md)
+- [20 — Addressing Modes](20-addressing-modes.md)
+- [21 — Instruction Cycle, Timing and Decoding](21-instruction-cycle-timing-and-decoding.md)
+- [22 — RTL of the Instructions](22-rtl-of-the-instructions.md)
+- [23 — Complete Flowchart for Basic Computer Operation](23-complete-flowchart-for-basic-computer-operation.md)
+- [24 — Design of the CPU of a Basic Computer](24-design-of-the-cpu-of-a-basic-computer.md)
+
+## Assembly Language Programming
+
+- [25 — Assembly Language Syntax](25-assembly-language-syntax.md)
+- [26 — Program Data and Variables](26-program-data-and-variables.md)
+- [27 — Program Structure](27-program-structure.md)
+- [28 — Memory Models](28-memory-models.md)
+- [29 — Data Segment](29-data-segment.md)
+- [30 — Stack Segment](30-stack-segment.md)
+- [31 — Code Segment](31-code-segment.md)
+- [32 — Variants of MOV Instruction](32-variants-of-mov-instruction.md)
+
+## Basic Instructions
+
+- [33 — XCHG Instruction](33-xchg-instruction.md)
+- [34 — ADD Instruction](34-add-instruction.md)
+- [35 — SUB Instruction](35-sub-instruction.md)
+- [36 — INC Instruction](36-inc-instruction.md)
+- [37 — DEC Instruction](37-dec-instruction.md)
+- [38 — NEG Instruction](38-neg-instruction.md)
+
+## Processor Status and Flow Control
+
+- [39 — Processor Status and Flags Register](39-processor-status-and-flags-register.md)
+- [40 — Flow Control Instructions](40-flow-control-instructions.md)
+- [41 — Unconditional Jump](41-unconditional-jump.md)
+- [42 — Conditional Jumps](42-conditional-jumps.md)
+- [43 — Looping Structures](43-looping-structures.md)
+
+## Logic, Shift and Rotate Instructions
+
+- [44 — AND Instruction](44-and-instruction.md)
+- [45 — OR Instruction](45-or-instruction.md)
+- [46 — XOR Instruction](46-xor-instruction.md)
+- [47 — NOT Instruction](47-not-instruction.md)
+- [48 — TEST Instruction](48-test-instruction.md)
+- [49 — Shift Instructions](49-shift-instructions.md)
+- [50 — Rotate Instructions](50-rotate-instructions.md)
+
+## Procedures and Stack
+
+- [51 — Procedures for Number Input](51-procedures-for-number-input.md)
+- [52 — Procedures for Number Output](52-procedures-for-number-output.md)
+- [53 — Stack](53-stack.md)
+- [54 — PUSH Instruction](54-push-instruction.md)
+- [55 — POP Instruction](55-pop-instruction.md)
+- [56 — CALL Instruction](56-call-instruction.md)
+- [57 — RET Instruction](57-ret-instruction.md)
+
+## Multiplication and Division
+
+- [58 — MUL Instruction](58-mul-instruction.md)
+- [59 — DIV Instruction](59-div-instruction.md)
+
+## Advanced Assembly Instructions
+
+- [60 — Related Programming Examples](60-related-programming-examples.md)
+- [61 — XLAT Instruction](61-xlat-instruction.md)
+
+## String Instructions
+
+- [62 — String Instructions](62-string-instructions.md)
+- [63 — MOVSB/W Instruction](63-movsb-w-instruction.md)
+- [64 — LOADSB/W Instruction](64-loadsb-w-instruction.md)
+- [65 — STOSB/W Instruction](65-stosb-w-instruction.md)
+- [66 — SCASB/W Instruction](66-scasb-w-instruction.md)
+- [67 — CMPSB/W Instruction](67-cmpsb-w-instruction.md)
+
+## File Operations
+
+- [68 — File Operations](68-file-operations.md)
+- [69 — Reading a File](69-reading-a-file.md)
+- [70 — Writing a File](70-writing-a-file.md)
 
 ---
 
-## Course Introduction
+## References
 
-The main objective of this course is to introduce the organization of computer systems and usage of assembly language for optimization and control.
+### Textbooks
 
-Emphasis is placed on exposing the low-level logic employed for problem solving while using assembly language as a tool.
+- Charles Marut and Ytha Yu — Assembly Language Programming and Organization of the IBM PC, 1st Edition, McGraw-Hill, 1992.
+- M. Morris Mano — Computer System Architecture, 3rd Edition, Pearson, 1993.
 
-At the end of the course, students should be capable of writing moderately complex assembly language subroutines and interfacing them with any high-level language.
+### Reference Books
 
-## Course Learning Outcomes (CLOs)
-
-At the end of this course, students will be able to:
-
-| CLO | Learning Outcome | BT | PLO |
-|---|---|---|---|
-| CLO1 | Acquire the basic knowledge of computer organization, computer architecture and assembly language. | C2 (Understand) | 1 |
-| CLO2 | Understand the concepts of basic computer organization, architecture, and assembly language techniques. | C2 (Understand) | 2 |
-| CLO3 | Solve problems related to computer organization and assembly language. | C3 (Apply) | 3, 4, 5 |
-
-## Course Description
-
-### 01 — Introduction to Computer Systems
-
-- Introduction to Computer Systems
-
-### 02 — Evolution of Intel Microprocessor
-
-- Evolution of Intel Microprocessor
-
-### 03 — Introduction to Assembly Language
-
-- Introduction to Assembly Language
-
-### 04 — Computer Organization
-
-- Computer Organization
-
-### 05 — Instruction Cycle
-
-- Instruction Cycle
-
-### 06 — Memory Architecture
-
-- Memory Architecture
-
-### 07 — Memory Representation & Hierarchy
-
-- Memory Representation & Hierarchy
-
-### 08 — Data, Address and Control Buses
-
-- Data Bus
-- Address Bus
-- Control Bus
-
-### 09 — Intel 8086 Family of Microprocessors
-
-- Intel 8086 Family of Microprocessors
-
-### 10 — Organization of Intel 8088/8086 Processor
-
-- Organization of Intel 8088/8086 Processor
-
-### 11 — Registers and Their Categories
-
-- Registers
-- Categories of Registers
-
-### 12 — Functions of Registers
-
-- Functions of Registers
-
-### 13 — Memory Addressing
-
-- Memory Addressing
-
-### 14 — Real Mode Memory Structure
-
-- Real Mode Memory Structure
-
-### 15 — Memory Segmentation
-
-- Memory Segmentation
-- Segment/Offset Scheme
-
-### 16 — Basic Computer Instructions
-
-- Memory Reference Instructions
-- Register Reference Instructions
-- I/O Instructions
-
-### 17 — Addressing Modes
-
-- Addressing Modes
-
-### 18 — Instruction Timing and Decoding
-
-- Instruction Cycle
-- Timing and Decoding
-
-### 19 — RTL of Instructions
-
-- RTL of the Instructions
-
-### 20 — Basic Computer Operation Flowchart
-
-- Complete Flowchart for the Basic Computer Operation
-
-### 21 — Design of CPU
-
-- Design of the CPU of a Basic Computer
-
-### 22 — Assembly Language Syntax
-
-- Assembly Language Syntax
-
-### 23 — Program Data and Variables
-
-- Program Data
-- Variables
-
-### 24 — Program Structure
-
-- Program Structure
-
-### 25 — Memory Models
-
-- Memory Models
-
-### 26 — Data, Stack and Code Segments
-
-- Data Segment
-- Stack Segment
-- Code Segment
-
-### 27 — Variants of MOV Instruction
-
-- Variants of MOV Instruction
-
-### 28 — Basic Instructions
-
-- XCHG
-- ADD
-- SUB
-- INC
-- DEC
-- NEG
-
-### 29 — Processor Status and Flags Register
-
-- Processor Status and Flags Register
-
-### 30 — Flow Control Instructions
-
-- Flow Control Instructions
-
-### 31 — Jump Instructions
-
-- Unconditional Jump
-- Conditional Jumps
-
-### 32 — Looping Structures
-
-- Looping Structures
-
-### 33 — Logic Instructions
-
-- AND
-- OR
-- XOR
-- NOT
-- TEST
-
-### 34 — Shift and Rotate Instructions
-
-- Shift Instructions
-- Rotate Instructions
-
-### 35 — Number Input and Output Procedures
-
-- Procedures to Input Binary, Decimal and Hexadecimal Numbers
-- Procedures to Output Binary, Decimal and Hexadecimal Numbers
-
-### 36 — Stack, PUSH and POP
-
-- The Stack
-- PUSH Instruction
-- POP Instruction
-
-### 37 — CALL and RET Instructions
-
-- CALL Instruction
-- RET Instruction
-
-### 38 — MUL and DIV Instructions
-
-- MUL Instruction
-- DIV Instruction
-
-### 39 — Related Programming Examples
-
-- Related Programming Examples
-
-### 40 — XLAT Instruction
-
-- XLAT Instruction
-
-### 41 — String Instructions
-
-- String Instructions
-- MOVSB/W
-- LOADSB/W
-- STOSSB/W
-- SCASB/W
-- CMPSB/W
-
-### 42 — File Operations
-
-- File Operations
-- Reading a File
-- Writing a File
+- Barry B. Brey — The Intel Microprocessors, 7th Edition, Prentice Hall, 2005.
+- Kip R. Irvine — Assembly Language for Intel Based Computers, 4th Edition, Prentice Hall, 2002.
 
 ---
 
-## Textbooks
-
-1. Charles Marut and Ytha Yu, *Assembly Language Programming and Organization of the IBM PC*, 1st Edition, McGraw-Hill, 1992. ISBN: 97800707026925.
-2. M. Morris Mano, *Computer System Architecture*, 3rd Edition, Pearson, 1993. ISBN: 9780131755635.
-
-## Reference Material
-
-1. Barry B. Brey, *The Intel Microprocessors 8086/8088, 80186/80188, 80286, 80386, 80486, Pentium and Pentium Pro-Processor, Pentium II, Pentium III, Pentium 4*, 7th Edition, Prentice Hall, 2005. ISBN: 0131195069.
-2. Kip R. Irvine, *Assembly Language for Intel Based Computers*, 4th Edition, Prentice Hall, 2002. ISBN: 9780130910134.
-
----
-
-**BS Computer Science | CC-210 | Computer Organization & Assembly Language**
+**BS Computer Science | Semester 03 | CC-210**
