@@ -40,8 +40,7 @@ Object-Oriented Design (OOD) is a paradigm for software development in which a s
 
 The main purposes of Object-Oriented Design are:
 
-- To organize software into classes and objects.
-- To represent real-world entities.
+- To organize software into classes and objects to accurately represent real-world entities.
 - To make software easier to maintain.
 - To improve design reusability.
 - To manage complex software systems.
