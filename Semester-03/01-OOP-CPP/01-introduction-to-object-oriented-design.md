@@ -18,7 +18,7 @@ Object-Oriented Design (OOD) is a paradigm for software development in which a s
 
 ---
 
-## Core Building Blocks
+## Main Concepts
 
 | Term | Meaning | Quick Example / Note |
 | :--- | :--- | :--- |
