@@ -46,6 +46,13 @@ The main purposes of Object-Oriented Design are:
 - To manage complex software systems.
 
 ## Example
+# Student Management System
+
+We model a **Student Management System** by defining a `Student` class with its attributes and methods:
+
+* **Class:** `Student` (Blueprint for every student record)
+* **Attributes:** `Name`, `Roll Number`, `Marks`
+* **Methods:** `Display Information()`, `Calculate Result()`
 
 
 
