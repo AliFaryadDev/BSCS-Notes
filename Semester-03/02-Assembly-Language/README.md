@@ -63,60 +63,60 @@
 - [35 — SUB Instruction](35-sub-instruction.md)
 - [36 — INC Instruction](36-inc-instruction.md)
 - [37 — DEC Instruction](37-dec-instruction.md)
-- [38 — NEG Instruction](38-neg-instruction.md)
+- 38 — NEG Instruction
 
 ## Processor Status and Flow Control
 
-- [39 — Processor Status and Flags Register](39-processor-status-and-flags-register.md)
-- [40 — Flow Control Instructions](40-flow-control-instructions.md)
-- [41 — Unconditional Jump](41-unconditional-jump.md)
-- [42 — Conditional Jumps](42-conditional-jumps.md)
-- [43 — Looping Structures](43-looping-structures.md)
+- 39 — Processor Status and Flags Register
+- 40 — Flow Control Instructions
+- 41 — Unconditional Jump
+- 42 — Conditional Jumps
+- 43 — Looping Structures
 
 ## Logic, Shift and Rotate Instructions
 
-- [44 — AND Instruction](44-and-instruction.md)
-- [45 — OR Instruction](45-or-instruction.md)
-- [46 — XOR Instruction](46-xor-instruction.md)
-- [47 — NOT Instruction](47-not-instruction.md)
-- [48 — TEST Instruction](48-test-instruction.md)
-- [49 — Shift Instructions](49-shift-instructions.md)
-- [50 — Rotate Instructions](50-rotate-instructions.md)
+- 44 — AND Instruction
+- 45 — OR Instruction
+- 46 — XOR Instruction
+- 47 — NOT Instruction
+- 48 — TEST Instruction
+- 49 — Shift Instructions
+- 50 — Rotate Instructions
 
 ## Procedures and Stack
 
-- [51 — Procedures for Number Input](51-procedures-for-number-input.md)
-- [52 — Procedures for Number Output](52-procedures-for-number-output.md)
-- [53 — Stack](53-stack.md)
-- [54 — PUSH Instruction](54-push-instruction.md)
-- [55 — POP Instruction](55-pop-instruction.md)
-- [56 — CALL Instruction](56-call-instruction.md)
-- [57 — RET Instruction](57-ret-instruction.md)
+- 51 — Procedures for Number Input
+- 52 — Procedures for Number Output
+- 53 — Stack
+- 54 — PUSH Instruction
+- 55 — POP Instruction
+- 56 — CALL Instruction
+- 57 — RET Instruction
 
 ## Multiplication and Division
 
-- [58 — MUL Instruction](58-mul-instruction.md)
-- [59 — DIV Instruction](59-div-instruction.md)
+- 58 — MUL Instruction
+- 59 — DIV Instruction
 
 ## Advanced Assembly Instructions
 
-- [60 — Related Programming Examples](60-related-programming-examples.md)
-- [61 — XLAT Instruction](61-xlat-instruction.md)
+- 60 — Related Programming Examples
+- 61 — XLAT Instruction
 
 ## String Instructions
 
-- [62 — String Instructions](62-string-instructions.md)
-- [63 — MOVSB/W Instruction](63-movsb-w-instruction.md)
-- [64 — LOADSB/W Instruction](64-loadsb-w-instruction.md)
-- [65 — STOSB/W Instruction](65-stosb-w-instruction.md)
-- [66 — SCASB/W Instruction](66-scasb-w-instruction.md)
-- [67 — CMPSB/W Instruction](67-cmpsb-w-instruction.md)
+- 62 — String Instructions
+- 63 — MOVSB/W Instruction
+- 64 — LOADSB/W Instruction
+- 65 — STOSB/W Instruction
+- 66 — SCASB/W Instruction
+- 67 — CMPSB/W Instruction
 
 ## File Operations
 
-- [68 — File Operations](68-file-operations.md)
-- [69 — Reading a File](69-reading-a-file.md)
-- [70 — Writing a File](70-writing-a-file.md)
+- 68 — File Operations
+- 69 — Reading a File
+- 70 — Writing a File
 
 ---
 
