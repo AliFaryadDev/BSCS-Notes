@@ -59,7 +59,7 @@ int main() {
 }
 ```
 
-  **Result**
+## Resul
   >Result is 20
 
 <br>
