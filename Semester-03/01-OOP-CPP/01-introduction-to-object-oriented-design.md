@@ -35,16 +35,6 @@ Object-Oriented Design (OOD) is a paradigm for software development in which a s
 > * **Classification:** Entities tay karna (identifying what objects exist).
 > * **Organization:** Entities ko aapas mein jorna taake unke darmiyan taluqaat aur interaction wazeh ho sake aur system mukammal taur par kaam kare.
 
-
-
-## Main Concepts
-
-- **Objects:** Real-world entities that contain data and behavior.
-- **Classes:** Blueprints used to create objects.
-- **Attributes:** Data or properties of an object.
-- **Methods:** Functions that define the behavior of an object.
-- **Relationships:** Connections between different objects.
-
 ## Purpose
 
 The main purposes of Object-Oriented Design are:
