@@ -21,15 +21,6 @@ Object-Oriented Programming started in the 1960s with the development of the Sim
 - **1990s — Java:** Java became popular for object-oriented and platform-independent programming.
 - **Modern Era:** OOP is widely used in software development, games, web applications, and enterprise systems.
 
-## Purpose
-
-The main purposes behind the development of OOP were:
-
-- To manage complex software.
-- To improve code reusability.
-- To organize programs into objects.
-- To make software easier to maintain.
-- To represent real-world entities.
 
 ## Conclusion
 
