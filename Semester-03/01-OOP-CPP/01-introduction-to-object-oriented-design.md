@@ -7,6 +7,7 @@
 ## Important Points
 - [Definition](#definition)
 - [Main Concepts](#main-concepts)
+- [Core Workflow](#core-workflow)
 - [Purpose](#purpose)
 - [Example](#example)
 - [Advantages](#advantages)
