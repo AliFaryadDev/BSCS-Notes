@@ -88,12 +88,7 @@
 
 - [51 — Evolution of DBMS](51-evolution-of-dbms.md)
 - [52 — Components of DBMS](52-components-of-dbms.md)
-- [53 — Distributed Processing and Distributed Databases](53-distributed-processing-and-distributed-databases.md)
-- [54 — Distributed Database Transparency Features](54-distributed-database-transparency-features.md)
-- [55 — Distributed Database Design](55-distributed-database-design.md)
-- [56 — Data Fragmentation](56-data-fragmentation.md)
-- [57 — Data Replication](57-data-replication.md)
-- [58 — NoSQL Systems](58-nosql-systems.md)
+- [53 — Distributed Processing and Distributed Databases]
 
 —
 
