@@ -59,13 +59,10 @@ int main() {
 }
 ```
 
-## Resul
+## Result
   >Result is 20
 
 <br>
-
-**💡 Takeaway**
-> Encapsulation allows private data to be accessed and modified through public member functions.
 
 ## Conclusion
 
