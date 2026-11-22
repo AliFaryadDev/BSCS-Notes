@@ -43,7 +43,7 @@ The main purposes of Object-Oriented Design are:
 - To organize software into classes and objects.
 - To represent real-world entities.
 - To make software easier to maintain.
-- To improve code reusability.
+- To improve design reusability.
 - To manage complex software systems.
 
 ## Example
