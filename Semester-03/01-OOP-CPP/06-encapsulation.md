@@ -17,13 +17,6 @@ C++ provides an important Object Oriented Programming concept called Encapsulati
 The main purpose of Encapsulation is to:
 1. Keep data safe from direct access.
 2. Allow controlled access to data through member functions.
-## Access Specifiers
-Access specifiers control access to class members.
-
-C++ provides three access specifiers:
-1. **Private:** Members can only be accessed from within the same class.
-2. **Public:** Members can be accessed both inside and outside the class.
-3. **Protected:** Members can be accessed within the class and its derived classes (Inheritance concept).
 
 ## Syntax
 ```cpp
