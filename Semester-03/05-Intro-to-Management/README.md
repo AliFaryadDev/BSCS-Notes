@@ -15,34 +15,34 @@ Follow-up: None
 
 - [01 — Introduction to Management](01-introduction-to-management.md)
 - [02 — The Management Process](02-the-management-process.md)
-- 03 — Kinds of Managers
-- 04 — Basic Managerial Roles and Skills
-- 05 — Nature of Managerial Work
+- [03 — Kinds of Managers](03-kinds-of-managers.md)
+- [04 — Basic Managerial Roles and Skills](04-basic-managerial-roles-and-skills.md)
+- [05 — Nature of Managerial Work](05-nature-of-managerial-work.md)
 
 ### The Environment and Culture of Management
 
-- 06 — External and Internal Environment
-- 07 — Organizational Culture
-- 08 — Organization-Environment Relationship
+- [06 — External and Internal Environment](06-external-and-internal-environment.md)
+- [07 — Organizational Culture](07-organizational-culture.md)
+- [08 — Organization-Environment Relationship](08-organization-environment-relationship.md)
 
 ### Planning and Decision Making
 
-- 09 — Introduction to Planning
-- 10 — Decision-Making Process
-- 11 — Planning Process
-- 12 — Organizational Goals
-- 13 — Levels of Planning
-- 14 — Levels of Strategies
-- 15 — Rational Perspectives on Decision Making
-- 16 — Behavioral Aspects of Decision Making
-- 17 — Group and Team Decision Making
+- [09 — Introduction to Planning](09-introduction-to-planning.md)
+- [10 — Decision-Making Process](10-decision-making-process.md)
+- [11 — Planning Process](11-planning-process.md)
+- [12 — Organizational Goals](12-organizational-goals.md)
+- [13 — Levels of Planning](13-levels-of-planning.md)
+- [14 — Levels of Strategies](14-levels-of-strategies.md)
+- [15 — Rational Perspectives on Decision Making](15-rational-perspectives-on-decision-making.md)
+- [16 — Behavioral Aspects of Decision Making](16-behavioral-aspects-of-decision-making.md)
+- [17 — Group and Team Decision Making](17-group-and-team-decision-making.md)
 
 ### The Organizing Process
 
-- 18 — Introduction to Organizing
-- 19 — Designing Jobs
+- [18 — Introduction to Organizing](18-introduction-to-organizing.md)
+- [19 — Designing Jobs](19-designing-jobs.md)
 - [20 — Grouping Jobs](20-grouping-jobs.md)
-- 21 — Establishing Reporting Relationships
+- [21 — Establishing Reporting Relationships](21-establishing-reporting-relationships.md)
 - 22 — Distributing Authority
 - 23 — Coordinating Activities
 
