@@ -5,7 +5,6 @@
 **Language:** C++
 
 ## Important Points
-- [Introduction](#introduction)
 - [Definition](#definition)
 - [Main Concepts](#main-concepts)
 - [Purpose](#purpose)
