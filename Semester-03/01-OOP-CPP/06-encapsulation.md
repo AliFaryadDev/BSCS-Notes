@@ -81,36 +81,7 @@ int main() {
 **💡 Takeaway**
 >The getAge() function returns the value of the private data member age.
 
-### Step 4 — Displaying Data
-<br>
 
-**Code**
-```cpp
-cout << s1.getAge();
-```
-<br>
-
-**Diagram**
-```mermaid
-flowchart TD
-    A["Call getAge()"] --> B["Access private age"]
-    B --> C["Return 20"]
-    C --> D["cout displays 20"]
-  ```
-  <br>
-
-  **Code Mapping**
-  ```mermaid
-  flowchart TD
-    A["cout << s1.getAge();"]
-    A --> B["cout = Output statement"]
-    A --> C["s1 = Object"]
-    A --> D["getAge() = Member function"]
-   ```
-<br>
-
-**Output**
-> Result is 20
 
 <br>
 
