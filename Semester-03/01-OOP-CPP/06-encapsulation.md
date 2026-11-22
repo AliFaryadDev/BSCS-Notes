@@ -9,7 +9,7 @@
 
 ## Definition
 
-**Encapsulation** is the process of binding data members and member functions together into a single unit called a class.
+> **Encapsulation** is the process of binding data members and member functions together into a single unit called a class.
 ## Purpose
 The main purpose of Encapsulation is to:
 1. Keep data safe from direct access.
