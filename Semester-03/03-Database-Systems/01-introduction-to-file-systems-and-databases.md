@@ -18,7 +18,7 @@
 
 ## Introduction
 
-A **File System** is an operating system component of storing and organizing data in files and folders,while a **database** is a structured system that organizes data into tables to allow efficient querying and management.
+A **File System** is an operating system component of storing and organizing data in files and folders,while a **database** is a structured system that organizes data into tables to allow querying and management.
 
 
 **Examples:**
