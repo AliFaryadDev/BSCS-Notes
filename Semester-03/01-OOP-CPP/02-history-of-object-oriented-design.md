@@ -27,7 +27,4 @@ Object-Oriented Programming started in the 1960s with the development of the Sim
 Object-Oriented Programming evolved through languages such as Simula, Smalltalk, C++, and Java. It became an important approach for developing organized, reusable, and maintainable software.
 
 ---
-
-**Prepared by:** Muhammad Ali  
-**Subject:** Object Oriented Programming  
-**Topic:** 02 — History of Object-Oriented Design
+Made with ❤️ by Muhammad Ali
