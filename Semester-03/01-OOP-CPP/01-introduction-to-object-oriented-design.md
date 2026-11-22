@@ -17,9 +17,28 @@
 Object-Oriented Design (OOD) is a paradigm for software development in which a system is designed using objects and classes. It structures the software around real-world domain entities. 
 
 ## Additional Concepts
+# Object-Oriented Design (OOD)
 
+**Object-Oriented Design** is a paradigm for software development in which software is designed using classes and objects. It structures the software by using real-world domain entities.
 
+---
 
+## Core Building Blocks
+
+| Term | Meaning | Quick Example / Note |
+| :--- | :--- | :--- |
+| **Paradigm** | Conceptual model or development approach. | Programmers **use** UML (Unified Modeling Language) diagrams to visualize it. |
+| **Classes** | Blueprints arranged in a **hierarchical structure** (Base & Subclass). | Involves the concept of **inheritance**. |
+| **Object** | A specific instance of a class. | A *9th class book* (with attributes like *genre: academic*). |
+| **Domain Object** | Represents a single software entity. | Must be **either** *Physical* (e.g., hardware) **or** *Abstract* (e.g., a transaction)—never both at once. |
+
+---
+
+## Core Workflow
+
+> **Classification & Organization:**
+> * **Classification:** Entities tay karna (identifying what objects exist).
+> * **Organization:** Entities ko aapas mein jorna taake unke darmiyan taluqaat aur interaction wazeh ho sake aur system mukammal taur par kaam kare.
 ## Main Concepts
 
 - **Objects:** Real-world entities that contain data and behavior.
