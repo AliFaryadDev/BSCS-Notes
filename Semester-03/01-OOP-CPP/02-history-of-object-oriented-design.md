@@ -10,14 +10,6 @@
 - [Purpose](#purpose)
 - [Conclusion](#conclusion)
 
-## Introduction
-
-Object-Oriented Programming developed to make software easier to design, organize, and maintain. It evolved from earlier programming approaches to support complex software systems.
-
-## Definition
-
-The History of Object-Oriented Design describes the development and evolution of object-oriented programming concepts and languages over time.
-
 ## History
 
 Object-Oriented Programming started in the 1960s with the development of the Simula programming language. Later, Smalltalk helped develop and popularize object-oriented concepts.
