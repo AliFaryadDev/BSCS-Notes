@@ -7,8 +7,6 @@
 - [Example](#example)
 - [Conclusion](#conclusion)
 
-## Introduction
-C++ provides an important Object Oriented Programming concept called Encapsulation. It binds data and the functions that operate on that data into a single unit called a class.
 ## Definition
 
 **Encapsulation** is the process of binding data members and member functions together into a single unit called a class.
