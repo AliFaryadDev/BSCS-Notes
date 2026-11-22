@@ -18,7 +18,7 @@ Object-Oriented Design (OOD) is a paradigm for software development in which a s
 
 ## Additional Concepts
 
-* **Paradigm**: Conceptual model or development approach. Programmers uses UML (Unified Modeling Language) diagrams for visualization of .
+* **Paradigm**: Conceptual model or development approach. Programmers uses UML (Unified Modeling Language) diagrams for visualization of their paradigm.
 * **Object**: An instance of a class (for example, a *9th class book* with attributes such as *genre* like *academic*).
 * **Classes**: Base class and subclass, involving concepts of **inheritance** and **hierarchical structure**.
 * **Domain Objects**:
