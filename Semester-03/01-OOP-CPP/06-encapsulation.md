@@ -1,7 +1,6 @@
 # Encapsulation 
 **Subject: OOP** | **Language: C++**
 ## 📄 Important Point
-- [Introduction](#introduction)
 - [Definition](#definition)
 - [Purpose](#purpose)
 - [Syntax](#syntax)
