@@ -15,7 +15,7 @@
 
 ## Introduction
 
-Object-Oriented Design (OOD) is a paradigm for software development in which a system is designed using objects (9th class Book is an object and its ) and classes (base class and sub class | concepts of inheritance & hierarchical structure) . It focuses on organizing software around domain objects that represet both physical (hardware) and abstract components (transaction) of the software. 
+Object-Oriented Design (OOD) is a paradigm for software development in which a system is designed using objects (9th class Book is an object and its attribute are) and classes (base class and sub class | concepts of inheritance & hierarchical structure) . It focuses on organizing software around domain objects that represet both physical (hardware) and abstract components (transaction) of the software. 
 
 ## Definition
 
