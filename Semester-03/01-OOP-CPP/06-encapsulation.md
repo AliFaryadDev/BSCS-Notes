@@ -7,7 +7,6 @@
 - [Access Specifiers](#access-specifiers)
 - [Syntax](#syntax)
 - [Example](#example)
-- [Working](#working)
 - [Conclusion](#conclusion)
 
 ## Introduction
