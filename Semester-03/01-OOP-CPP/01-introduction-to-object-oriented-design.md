@@ -47,11 +47,7 @@ The main purposes of Object-Oriented Design are:
 
 ## Example
 
-A Student Management System can be designed using objects.
 
-- Class: Student
-- Attributes: Name, Roll Number, Marks
-- Methods: Display Information, Calculate Result
 
 ## Advantages
 
