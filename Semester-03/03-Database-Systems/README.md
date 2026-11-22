@@ -49,24 +49,7 @@
 - [26 — Relationships](26-relationships.md)
 - [27 — Entity-Relationship Diagrams](27-entity-relationship-diagrams.md)
 
-## Normalization of Database Tables
-
-- [28 — Objectives of Normalization](28-objectives-of-normalization.md)
-- [29 — Normalization and Database Design](29-normalization-and-database-design.md)
-- [30 — Functional Dependencies](30-functional-dependencies.md)
-- [31 — Normal Forms](31-normal-forms.md)
-- [32 — Denormalization](32-denormalization.md)
-
-## Structured Query Language (SQL)
-
-- [33 — Introduction to SQL](33-introduction-to-sql.md)
-- [34 — DDL Commands](34-ddl-commands.md)
-- [35 — DML Commands](35-dml-commands.md)
-- [36 — DCL Commands](36-dcl-commands.md)
-- [37 — Joins and Subqueries in SQL](37-joins-and-subqueries-in-sql.md)
-- [38 — Grouping and Aggregation in SQL](38-grouping-and-aggregation-in-sql.md)
-- [39 — Complex Queries](39-complex-queries.md)
-- [40 — SQL Functions](40-sql-functions.md)
+.md)
 - [41 — Procedural SQL](41-procedural-sql.md)
 - [42 — Triggers](42-triggers.md)
 - [43 — Stored Procedures](43-stored-procedures.md)
