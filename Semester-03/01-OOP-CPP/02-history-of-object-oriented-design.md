@@ -7,8 +7,7 @@
 ## Important Points
 - [History](#history)
 - [Important Developments](#important-developments)
-- [Purpose](#purpose)
-- [Conclusion](#conclusion)
+
 
 ## History
 
