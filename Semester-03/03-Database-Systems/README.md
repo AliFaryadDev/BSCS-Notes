@@ -48,32 +48,7 @@
 - [25 — Entity Attributes](25-entity-attributes.md)
 - [26 — Relationships](26-relationships.md)
 - [27 — Entity-Relationship Diagrams](27-entity-relationship-diagrams.md)
-
-.md)
-- [41 — Procedural SQL](41-procedural-sql.md)
-- [42 — Triggers](42-triggers.md)
-- [43 — Stored Procedures](43-stored-procedures.md)
-
-## Database Design
-
-- [44 — System Development Life Cycle (SDLC)](44-system-development-life-cycle-sdlc.md)
-- [45 — Database Life Cycle (DBLC)](45-database-life-cycle-dblc.md)
-- [46 — Database Design Strategies](46-database-design-strategies.md)
-
-## Transaction Management and Concurrency Control
-
-- [47 — Introduction to Transaction Management and Concurrency Control](47-introduction-to-transaction-management-and-concurrency-control.md)
-- [48 — Transaction Properties and Types](48-transaction-properties-and-types.md)
-- [49 — Concurrency Control Issues](49-concurrency-control-issues.md)
-- [50 — Database Recovery Management](50-database-recovery-management.md)
-
-## Database Management Systems (DBMS)
-
-- [51 — Evolution of DBMS](51-evolution-of-dbms.md)
-- [52 — Components of DBMS](52-components-of-dbms.md)
-- [53 — Distributed Processing and Distributed Databases]
-
-—
+__
 
 ## Textbook
 
