@@ -46,17 +46,9 @@ The main purposes of Object-Oriented Design are:
 - To manage complex software systems.
 
 ## Example
-# Student Management System — Design Breakdown
 
-A **Student Management System** can be designed using objects.
 
-## 1. Software / System Design (Overall Structure)
-- **System Level:** Represents the **Student Management System** as a whole—how modules/components (such as student records, result processing, and display/storage) fit together and interact.
 
-## 2. Object Design (Class, Attributes & Methods)
-- **Class (`Student`):** The blueprint/template used to create individual student objects with a shared structure.
-- **Attributes (`Name`, `Roll Number`, `Marks`):** Data members (state) stored inside each `Student` object to hold individual student details and scores.
-- **Methods (`Display Information`, `Calculate Result`):** Member functions (behavior) defined for the `Student` class to display details and compute results from the attributes.
 ## Advantages
 
 - Improves code organization.
