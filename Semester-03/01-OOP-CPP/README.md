@@ -10,7 +10,7 @@ Table of Contents
 
 ## Introduction to Object-Oriented Design
 
-- [01 — Introduction to Object-Oriented Design](01-introduction-to-object-oriented-design.md)
+- [X][01 — Introduction to Object-Oriented Design](01-introduction-to-object-oriented-design.md)
 - [02 — History of Object-Oriented Design](02-history-of-object-oriented-design.md)
 - [03 — Advantages of Object-Oriented Design](03-advantages-of-object-oriented-design.md)
 
