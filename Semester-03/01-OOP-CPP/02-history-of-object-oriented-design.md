@@ -5,8 +5,6 @@
 **Language:** C++
 
 ## Important Points
-- [Introduction](#introduction)
-- [Definition](#definition)
 - [History](#history)
 - [Important Developments](#important-developments)
 - [Purpose](#purpose)
