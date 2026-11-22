@@ -73,47 +73,6 @@ int main() {
 }
 ```
 
-**Result**
-
->Private variable age now stores 20.
-
-<br>
-
-**💡 Takeaway** 
->The setAge() function assigns a value to the private variable age.
-
-### Step 3 — Getting Data
-<br>
-
-**Code**
-```cpp
-s1.getAge();
-```
-<br>
-
-**Diagram**
-
-```mermaid
-flowchart TD
-    A["s1.getAge()"] --> B["getAge() function"]
-    B --> C["Access private age"]
-    C --> D["Return 20"]
-  ```
-  <br>
-
-  **Code Mappping**
-  ```mermaid
-  mindmap
-  root((getAge))
-    Object
-      s1
-    Access
-      Private age
-    Return
-      Stored value
-  ```
-  <br>
-
   **Result**
   >Result is 20
 
