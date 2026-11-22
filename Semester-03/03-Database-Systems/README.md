@@ -48,6 +48,52 @@
 - [25 — Entity Attributes](25-entity-attributes.md)
 - [26 — Relationships](26-relationships.md)
 - [27 — Entity-Relationship Diagrams](27-entity-relationship-diagrams.md)
+## Normalization of Database Tables
+
+- 28 — Objectives
+- 29 — Forms
+- 30 — Normalization and Database Design
+- 31 — Functional Dependencies
+- 32 — Normal Forms
+- 33 — Denormalization
+
+## Structured Query Language (SQL)
+
+- 34 — Introduction
+- 35 — DDL Commands
+- 36 — Joins and Subqueries in SQL
+- 37 — Grouping and Aggregation in SQL
+- 38 — DML Commands
+- 39 — DCL Commands
+- 40 — Complex Queries and SQL Functions
+- 41 — Procedural SQL
+- 42 — Triggers
+- 43 — Stored Procedures
+
+## Database Design
+
+- 44 — The System Development Life Cycle (SDLC)
+- 45 — The Database Life Cycle (DBLC)
+- 46 — Database Design Strategies
+
+## Transaction Management and Concurrency Control
+
+- 47 — Introduction
+- 48 — Transaction Properties and Types
+- 49 — Concurrency Control Issues
+- 50 — Database Recovery Management
+
+## DDBMS
+
+- 51 — Evolution
+- 52 — Components
+- 53 — Distributed Processing and Distributed Databases
+- 54 — Distributed Database Transparency Features
+- 55 — Distributed Database Design
+- 56 — Data Fragmentation
+- 57 — Data Replication
+- 58 — NoSQL Systems
+
 
 
 __
