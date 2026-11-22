@@ -29,11 +29,6 @@ Object-Oriented Design (OOD) is a paradigm for software development in which a s
 
 >Classification (entities tay karna) & Organization (entities ko aapas ma joorna take un ke darmiyaan taluqaat ko or interaction ko wazeh kya jaa sake ta ke system mukmal tor par kaam kar sake)
 
-
-## Definition
-
-Object-Oriented Design is the process of designing software by identifying classes, objects, their properties, behaviors, and relationships.
-
 ## Main Concepts
 
 - **Objects:** Real-world entities that contain data and behavior.
