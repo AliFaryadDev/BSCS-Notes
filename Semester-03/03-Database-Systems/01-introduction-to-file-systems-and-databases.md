@@ -16,7 +16,7 @@
 
 * **Structure:** File systems lack a unified schema; databases enforce strict structural rules.
 * **Data Redundancy:** File systems allow duplicate data across files; databases minimize redundancy.
-* **Data Integrity:** Databases use constraints to prevent invalid data entry, unlike file systems.
+* **Data Integrity (data ki durustagi):** Databases use constraints to prevent invalid data entry, unlike file systems.
 * **Concurrency:** Databases safely manage simultaneous access by multiple users.
 
 ## 3. Core Operations
