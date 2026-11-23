@@ -63,7 +63,7 @@ A student's address is updated in the admission file but remains unchanged in th
 
 **Problem:** Different files contain conflicting information.
 
-### 3. Data Isolation
+### Data Isolation
 
 **Definition:**
 
@@ -75,7 +75,7 @@ Student information is stored in one file, while examination results are stored 
 
 **Problem:** Retrieving related information becomes difficult.
 
-### 4. Data Dependence
+###  Data Dependence
 
 **Definition:**
 
