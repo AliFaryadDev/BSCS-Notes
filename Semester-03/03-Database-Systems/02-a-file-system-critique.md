@@ -2,7 +2,6 @@
 
 ## Important Points
 
-- [Introduction](#introduction)
 - [Traditional File Processing System](#traditional-file-processing-system)
 - [Limitations of File System](#limitations-of-file-system)
 - [Data Redundancy](#data-redundancy)
