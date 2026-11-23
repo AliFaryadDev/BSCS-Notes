@@ -10,7 +10,7 @@
 ## 1. Core Definitions
 
 * **File System:** An OS component that manages, organizes, and stores data in unstructured files and folders.
-* **Database:** A structured system that organizes data into tables, rows, and columns to facilitate querying and management.
+* **Database:** A structured system that organizes data into tables to facilitate querying and management.
 
 ## 2. Key Differences for Exam Recall
 
