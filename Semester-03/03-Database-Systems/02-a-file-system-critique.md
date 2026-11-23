@@ -111,7 +111,7 @@ An unauthorized person may access or modify student records.
 
 **Problem:** Important information may be exposed or changed without permission.
 
-### 7. Integrity Problems
+### Integrity Problems
 
 **Definition:**
 
@@ -123,7 +123,7 @@ A student's marks may accidentally be entered as 150 out of 100.
 
 **Problem:** Incorrect or invalid data may be stored.
 
-### 8. Concurrent Access Problems
+### Concurrent Access Problems
 
 **Definition:**
 
