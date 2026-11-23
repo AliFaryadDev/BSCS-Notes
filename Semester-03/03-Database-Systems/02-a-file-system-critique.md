@@ -75,7 +75,7 @@ Student information is stored in one file, while examination results are stored 
 
 **Problem:** Retrieving related information becomes difficult.
 
-###  Data Dependence
+### Data Dependence
 
 **Definition:**
 
