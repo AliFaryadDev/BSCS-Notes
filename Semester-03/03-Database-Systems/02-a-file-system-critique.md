@@ -16,14 +16,6 @@
 
 ---
 
-## Introduction
-
-A File System is a traditional method of storing and managing data in separate files. Although it is useful for basic data storage, it has several limitations when handling large amounts of data.
-
-These limitations are known as the problems of the File System.
-
----
-
 ## Traditional File Processing System
 
 ### Definition
