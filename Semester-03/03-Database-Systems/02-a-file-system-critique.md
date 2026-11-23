@@ -87,7 +87,7 @@ If the structure of a student file changes, the application program may also nee
 
 **Problem:** Changes in file structure require changes in application programs.
 
-### 5. Limited Data Sharing
+### Limited Data Sharing
 
 **Definition:**
 
@@ -99,7 +99,7 @@ The examination department may have difficulty accessing student information mai
 
 **Problem:** Sharing information becomes difficult.
 
-### 6. Security Problems
+### Security Problems
 
 **Definition:**
 
