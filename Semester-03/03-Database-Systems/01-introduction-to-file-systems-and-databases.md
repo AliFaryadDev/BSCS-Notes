@@ -17,27 +17,27 @@
 ## 2. Core Functions (Manages vs. Organizes)
 
 ### Manages
-* **Meaning:** Data aur files ke lifecycle aur access ko control karna.
-* **Examples:** Creating, reading, updating, deleting (CRUD), renaming files, aur file permissions set karna.
+* **Meaning:** Controlling the lifecycle of data and files, plus who can access them.
+* **Examples:** Creating, reading, updating, deleting (CRUD), renaming files, and setting file permissions.
 
 ### Organizes
-* **Meaning:** Data ko logical hierarchy aur proper order mein arrange karna taake dhoondna aasan ho.
-* **Examples:** Directories (folders) aur subdirectories (subfolders) banana, aur file paths assign karna (e.g., `C:\Users\Documents\notes.md`).
+* **Meaning:** Arranging data in a logical hierarchy and clear order so it is easy to find.
+* **Examples:** Creating directories (folders) and subdirectories (subfolders), and assigning file paths (e.g., `C:\Users\Documents\notes.md`).
 
 ---
 
 ## 3. Key Components of a File System
-* **Files:** Basic logical units of storage jin mein raw text, records, ya binary data mehfooz hota hai.
-* **Directories (Folders):** Containers jo files aur doosre folders ko group karne ke liye istemal hote hain.
-* **File Metadata:** File ke baare mein izafi maloomat (e.g., file name, size, creation date, file type/extension, aur access permissions).
-* **Storage Allocation:** Disk par physical space track karna ke kaun si file kis sector ya block mein pari hai.
+* **Files:** Basic logical units of storage that hold raw text, records, or binary data.
+* **Directories (Folders):** Containers used to group files and other folders together.
+* **File Metadata:** Extra information about a file (e.g., file name, size, creation date, file type/extension, and access permissions).
+* **Storage Allocation:** Tracking physical space on a disk to know which sector or block holds which file.
 
 ---
 
 ## 4. Traditional File Processing Approach
-* **How it Works:** Purane (aur simple) software systems mein har department ya application apni alag files aur custom programs banati thi.
-* **Example:** Ek university mein Accounts department ki apni `fees.txt` file hoti thi aur Examination department ki apni `results.txt` file, jinke liye alag-alag C/C++ programs likhe jate thay.
-* **Focus:** Data storage ka structure seedha application code ke andar hardcode hota tha.
+* **How it Works:** In older (and simple) software systems, each department or application created its own separate files and custom programs.
+* **Example:** In a university, the Accounts department might keep its own `fees.txt` file and the Examination department might keep its own `results.txt` file, with separate C/C++ programs written for each.
+* **Focus:** The structure of stored data was hardcoded directly inside the application code.
 
 ---
 
@@ -56,14 +56,14 @@
 * **Database:** An organized collection of structured data stored electronically so it can be easily **stored**, **retrieved**, **updated**, and **managed**.
 * **Data:** Raw facts and figures without context (e.g., a student's name `"Ali"` or marks `85`).
 * **Information:** Processed, organized, and meaningful data (e.g., `"Ali scored 85 marks"`).
-* **Purpose:** Provides a central, structured place to keep data so managing large amounts of records becomes fast and reliable.
+* **Purpose:** Gives you a clean, structured place to keep data so working with many records is fast and dependable.
 
 ---
 
 ## 2. What is a DBMS?
-* **DBMS (Database Management System):** Software that allows users and applications to create, read, update, and manage a database (e.g., **MySQL**, PostgreSQL, Oracle).
-* **How it Helps:** Unlike a traditional file system where you manually handle file layouts in your code, the DBMS engine automatically manages storage, structure, and access.
-* **Query Language (SQL):** Instead of writing custom C/C++ loops for every search or update, you use simple commands (like `SELECT` or `INSERT`) to interact with your data.
+* **DBMS (Database Management System):** Software that lets users and applications create, read, update, and manage a database (e.g., **MySQL**, PostgreSQL, Oracle).
+* **How it Helps:** In a traditional file system, you manage file layouts inside your code; in a DBMS, the database engine handles storage, structure, and access automatically.
+* **Query Language (SQL):** Instead of writing custom C/C++ loops for every search or update, you use simple commands (like `SELECT` or `INSERT`) to work with your data.
 
 ---
 
@@ -71,24 +71,24 @@
 
 | Feature | Traditional File System | Database System (DBMS) |
 | :--- | :--- | :--- |
-| **Data & Program Coupling** | Data structure is tightly hardcoded inside the application code | Data and application code are independent (Data Independence) |
-| **Data Redundancy** | Same data is often duplicated across separate files | Redundancy is controlled and minimized |
-| **Data Integrity & Consistency** | Higher risk of invalid data or file corruption | Built-in rules and constraints keep data accurate |
-| **Querying & Searching** | Requires writing custom programs or loops | Fast access using structured queries (e.g., SQL) |
-| **Multi-User Access** | Concurrent access and file locking must be coded manually | Built-in concurrency control and safe transactions |
+| **Data & Program Coupling** | Data layout is tightly hardcoded inside the application code | Data and application code stay separate (Data Independence) |
+| **Data Redundancy** | The same data is often repeated across different files | Duplicate data is controlled and kept low |
+| **Data Integrity & Consistency** | Higher chance of bad data or file corruption | Rules and constraints keep data accurate |
+| **Querying & Searching** | Needs custom programs or loops | Fast lookup using structured queries (e.g., SQL) |
+| **Multi-User Access** | Shared access and file locking must be coded by hand | Built-in concurrency control and safe transactions |
 
 ---
 
 ## 4. Core Database Concepts
-* **Schema:** The overall blueprint or logical structure of a database (tables, columns, and their data types).
-* **Tables (Relations):** Data organized into rows (records/tuples) and columns (fields/attributes).
-* **Keys (Primary Key & Foreign Key):** Special columns used to uniquely identify each row and link related tables together.
-* **Normalization:** Organizing tables and columns to reduce duplicate data and prevent insert, update, or delete anomalies.
+* **Schema:** The blueprint or overall structure of a database (tables, columns, and their data types).
+* **Tables (Relations):** Data arranged into rows (records) and columns (fields/attributes).
+* **Keys (Primary Key & Foreign Key):** Columns used to uniquely identify each row and connect related tables together.
+* **Normalization:** Arranging tables and columns to cut down duplicate data and avoid insert, update, or delete problems.
 
 ---
 
 ## 5. Simple SQL Example (MySQL)
-Instead of hardcoding byte-by-byte file layouts inside your program, you define a table and run queries:
+Instead of hardcoding byte-by-byte file layouts inside your program, you create a table and run queries:
 
 ```sql
 CREATE TABLE students (
@@ -97,9 +97,9 @@ CREATE TABLE students (
     email VARCHAR(100)
 );
 
--- Adding a new column later is simple and safe:
+-- Adding a new column later is easy and safe:
 ALTER TABLE students ADD COLUMN middle_name VARCHAR(50);
 
--- Retrieving data with a simple query:
+-- Reading data with a simple query:
 SELECT student_id, full_name, middle_name FROM students;
 ```
