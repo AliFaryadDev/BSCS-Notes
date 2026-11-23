@@ -48,14 +48,7 @@
 - [25 — Entity Attributes](25-entity-attributes.md)
 - [26 — Relationships](26-relationships.md)
 - [27 — Entity-Relationship Diagrams](27-entity-relationship-diagrams.md)
-## Normalization of Database Tables
-
-- 28 — Objectives
-- 29 — Forms
-- 30 — Normalization and Database Design
-- 31 — Functional Dependencies
-- 32 — Normal Forms
-- 33 — Denormalization
+q
 
 ## Structured Query Language (SQL)
 
