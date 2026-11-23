@@ -12,6 +12,15 @@
 * **File System:** An OS component that manages, organizes, and stores data in unstructured files and folders.
 * **Database:** A structured system that organizes data into tables to facilitate efficient querying and management.
 
+### Manages
+- **Meaning:** Data ko control karna.
+- **Example:** Create, delete, rename files.
+
+### Organizes
+- **Meaning:** Data ko proper order mein arrange karna.
+- **Example:** Creating folders and subfolders.
+
+
 ## 2. Key Differences for Exam Recall
 
 * **Structure:** File systems lack a unified schema; databases enforce strict structural rules.
