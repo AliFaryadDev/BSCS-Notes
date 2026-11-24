@@ -51,8 +51,8 @@
 
 ## Normalization of Database Tables
 
-- [ ] [28 — Objectives of Normalization](28-objectives-of-normalization.md)
-      [29 — Forms of Normalization](29-forms-of-normalization.md)
+- [28 — Objectives of Normalization](28-objectives-of-normalization.md)
+- [29 — Forms of Normalization](29-forms-of-normalization.md)
 - [30 — Normalization and Database Design](30-normalization-and-database-design.md)
 - [31 — Functional Dependencies](31-functional-dependencies.md)
 - [32 — Normal Forms](32-normal-forms.md)
