@@ -20,7 +20,7 @@
 
 ---
 
-## 1. Introduction
+## Introduction
 
 Functional Dependency is an important concept in relational database design.
 
@@ -30,7 +30,7 @@ It helps us understand how one attribute determines the value of another attribu
 
 Functional Dependencies are also used in database normalization to identify keys and remove data redundancy.
 
-## 2. Definition
+## Definition
 
 A Functional Dependency is a relationship between two sets of attributes in which one set of attributes determines the value of another set of attributes.
 
@@ -42,7 +42,7 @@ A Student ID determines the Student Name.
 
 If we know the Student ID, we can find the name of that student.
 
-## 3. Basic Terminology
+## Basic Terminology
 
 ### 1. Attribute
 
@@ -92,7 +92,7 @@ If we know the Student_ID, we can identify the corresponding Student_Name.
 
 ---
 
-## 5. Types of Functional Dependencies
+## Types of Functional Dependencies
 
 There are several types of Functional Dependencies.
 
@@ -182,7 +182,7 @@ Therefore, it is a Transitive Functional Dependency.
 
 ---
 
-## 6. Determinant and Dependent
+## Determinant and Dependent
 
 In a Functional Dependency (X → Y):
 
@@ -200,7 +200,7 @@ The determinant determines the value of the dependent attribute.
 
 ---
 
-## 7. Armstrong's Axioms
+## Armstrong's Axioms
 
 Armstrong's Axioms are a set of rules used to derive new Functional Dependencies from existing Functional Dependencies.
 
@@ -256,7 +256,7 @@ Student_ID → Department_Name
 
 ---
 
-## 8. Inference Rules
+## Inference Rules
 
 Inference rules are additional rules used to derive Functional Dependencies.
 
@@ -290,7 +290,7 @@ If X → Y and WY → Z, then WX → Z.
 
 ---
 
-## 9. Attribute Closure
+## Attribute Closure
 
 Attribute Closure is the set of all attributes that can be determined by a given set of attributes using the available Functional Dependencies.
 
@@ -344,7 +344,7 @@ So, A is a Candidate Key if it is minimal.
 
 ---
 
-## 10. Functional Dependency Closure
+## Functional Dependency Closure
 
 Functional Dependency Closure is the set of all Functional Dependencies that can be logically derived from a given set of Functional Dependencies.
 
@@ -376,7 +376,7 @@ F⁺ includes:
 
 ---
 
-## 11. Candidate Key Using Closure
+## Candidate Key Using Closure
 
 A Candidate Key is a minimal set of attributes that can uniquely identify every record in a table.
 
@@ -416,7 +416,7 @@ A is the Candidate Key.
 
 ---
 
-## 12. Importance of Functional Dependencies
+## Importance of Functional Dependencies
 
 Functional Dependencies are important because:
 
@@ -430,7 +430,7 @@ Functional Dependencies are important because:
 
 ---
 
-## 13. Conclusion
+## Conclusion
 
 Functional Dependencies describe how one attribute or a group of attributes determines another attribute.
 
