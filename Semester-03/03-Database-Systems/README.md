@@ -14,7 +14,7 @@
 
 - [x] [01 — Introduction to File Systems and Databases](01-introduction-to-file-systems-and-databases.md)
 - [x] [02 — A File System Critique](02-a-file-system-critique.md)
-- [] [03 — Database Systems](03-database-systems.md)
+- [ ] [03 — Database Systems](03-database-systems.md)
 - [04 — Database Approach vs. File-Based System](04-database-approach-vs-file-based-system.md)
 - [05 — Database Architecture](05-database-architecture.md)
 - [06 — Three-Level Schema Architecture](06-three-level-schema-architecture.md)
