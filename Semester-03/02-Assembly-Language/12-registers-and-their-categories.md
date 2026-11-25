@@ -6,18 +6,18 @@
 
 ## 📄 Table of Contents
 
-- [Introduction](#introduction)
-- [Definition of Registers](#definition-of-registers)
-- [Categories of 8086 Registers](#categories-of-8086-registers)
-- [General Purpose Registers](#general-purpose-registers)
-- [Segment Registers](#segment-registers)
-- [Pointer Registers](#pointer-registers)
-- [Index Registers](#index-registers)
-- [Instruction Pointer](#instruction-pointer)
-- [Flag Register](#flag-register)
-- [Conclusion](#conclusion)
-
----
+1. **Introduction**
+2. **Definition of Registers**
+3. **Categories of 8086 Registers**
+   - **3.1 General Purpose Registers**
+   - **3.2 Special Purpose Registers**
+     - Segment Registers
+     - Pointer Registers
+     - Index Registers
+     - Instruction Pointer
+     - Flag Register
+4. **Conclusion**
+___
 
 ## Introduction
 
