@@ -11,7 +11,7 @@
   - [General Purpose Registers](#general-purpose-registers)
   - [Segment Registers](#segment-register)
     - [Segment Registers](#segment-registers)
-    - [Pointer Registers](#pointer-registers)
+    - [Pointer and Index Registers](#pointer-registers)
     - [Index Registers](#index-registers)
     - [Instruction Pointer](#instruction-pointer)
     - [Flag Register](#flag-register)
