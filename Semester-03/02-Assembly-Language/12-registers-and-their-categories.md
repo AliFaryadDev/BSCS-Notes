@@ -16,7 +16,6 @@
 - [Conclusion](#conclusion)
 
 ---
-
 ## Introduction
 
 Registers are small and high-speed storage locations inside the CPU.
