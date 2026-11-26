@@ -12,7 +12,6 @@
   - [Segment Registers](#segment-register)
   - [Pointer and Index Registers](#pointer-and-index-registers)
   - [Control and Status Registers](#control-and-status-registers)
-
 - [Conclusion](#conclusion)
 
 ---
