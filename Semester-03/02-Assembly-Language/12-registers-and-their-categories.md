@@ -12,7 +12,6 @@
   - [Segment Registers](#segment-register)
     - [Segment Registers](#segment-registers)
     - [Pointer and Index Registers](#pointer-and-index-registers)
-    - [Index Registers](#index-registers)
     - [Instruction Pointer](#instruction-pointer)
     - [Flag Register](#flag-register)
 - [Conclusion](#conclusion)
