@@ -8,9 +8,8 @@
 - [Introduction](#introduction)
 - [Definition of Registers](#definition-of-registers)
 - [Categories of 8086 Registers](#categories-of-8086-registers)
-  - [General Purpose Registers](#general-purpose-registers)
+- [General Purpose Registers](#general-purpose-registers)
 - [Segment Registers](#segment-register)
-- [Segment Registers](#segment-registers)
 - [Pointer and Index Registers](#pointer-and-index-registers)
 
 - [Conclusion](#conclusion)
